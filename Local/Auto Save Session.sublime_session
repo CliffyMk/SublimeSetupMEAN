@@ -1,0 +1,1048 @@
+{
+	"folder_history":
+	[
+		"/D/projects/dimantine-frontend"
+	],
+	"last_version": 3103,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"$stat",
+						"$stateProvider	(?)"
+					],
+					[
+						"html",
+						"html5	Simple HTML5 Boilerplate"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/projects/dimantine-frontend/gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 1,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": " /*global angular*/\n (function () {\n     'use strict';\n     var dependencies = [];\n     var app = angular.module(\"DimantineApp\", dependencies);\n     // app.constant(\"url\", \"http://10.20.0.109:8080/timesheet/api/\");\n     app.run(['$rootScope', '$state', 'authService', 'toaster', function ($rootScope, $state, authService, toaster) {\n\n     }]);\n }());\n",
+					"file": "/D/projects/dimantine-frontend/app/app.module.js",
+					"file_size": 361,
+					"file_write_time": 131061464656151777,
+					"settings":
+					{
+						"buffer_size": 351,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n	// `detect_acronyms` will cause certain words in variable names to be\n	// marked as acronyms, making them upper-case (\"URL\") instead of\n	// capitalized (\"Url\").\n\n	// When variables are parsed, upper-case letters count as word boundaries.\n	// That means words which would be considered acronyms are instead\n	// separated into individual letters. For example, converting \"BaseURL\" to\n	// snake_case will produce \"base_u_r_l\".\n\n	// If `detect_acronyms` is enabled, runs of single upper-case characters\n	// will be combined into single words. How these are detected depends on\n	// the `use_acronyms_list` setting. In general, this means \"BaseURL\" would\n	// be converted into \"base_url\".\n\n	// If `detect_acronyms` is disabled, no attempts to combine upper-case\n	// characters will be made.\n	\"detect_acronyms\": true,\n\n\n	// `use_acronyms_list` causes a more robust way to detect acronyms to be\n	// used, by searching for words from a predefined list.\n\n	// If `use_acronyms_list` is disabled, then a basic detection method is\n	// used. That is, runs of upper-case letters are detected and combined\n	// into single words. There are two drawbacks to this. The first is that\n	// two supposed acronyms that are adjacent will be counted as one word\n	// (e.g. \"GetHTTPURLPath\" would be divided into [Get, HTTPURL, Path]).\n\n	// The second drawback is that acronyms converted to lower-case cannot be\n	// converted back to their original upper-case. For example, \"BaseURL\" to\n	// \"base_url\" to \"BaseUrl\".\n\n	// If `use_acronyms_list` is enabled, then each run of upper-case letters\n	// is compared with words in the `acronyms` list, and any matches are\n	// counted as words. This means adjacent acronyms will be detected (e.g.\n	// \"GetHTTPURLPath\" will be divided into [Get, HTTP, URL, Path]).\n\n	// Acronyms are also detected among words, so converting from lower-case\n	// will produce correctly upper-cased acronyms. For example, \"BaseURL\" to\n	// \"base_url\" to \"BaseURL\".\n	\"use_acronyms_list\": true,\n\n\n	// `acronyms` is a list of words that are to be considered acronyms.\n\n	// Valid acronyms contain only upper and lower-case letters, and digits.\n	// Invalid words are ignored, and valid words are converted to upper-case.\n\n	// Order matters; words earlier in the list will be selected before words\n	// later in the list. For example, if \"UI\" were to be put before \"GUI\",\n	// then \"GUI\" would never be selected, because the \"UI\" in \"GUI\" would\n	// always be selected first.\n\n	// Note that if the list is empty, no acronyms will be detected, so\n	// variables will be treated as if `detect_acronyms` was disabled.\n	\"acronyms\": [\n		\"HTML\",\n		\"CSS\",\n		\"HTTP\",\n		\"URL\",\n		\"GUI\",\n		\"UI\",\n		\"ID\"\n	]\n}\n",
+					"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 2680,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 710,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "/*global angular*/\n(function () {\n    'use strict';\n    angular.module(\"Dimantineapp\")\n        .config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {\n            $stateProvider.state('', {\n                url: '/',\n                templateUrl: ''\n            });\n            $urlRouterProvider.otherwise('/');\n        }]);\n}());\n",
+					"file": "/D/projects/dimantine-frontend/app/app.routes.js",
+					"file_size": 383,
+					"file_write_time": 131061451883947437,
+					"settings":
+					{
+						"buffer_size": 371,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/projects/dimantine-frontend/karma.conf.js",
+					"settings":
+					{
+						"buffer_size": 2091,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/projects/dimantine-frontend/index.html",
+					"settings":
+					{
+						"buffer_size": 234,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"file\": \"inc_dec_value.sublime-settings\"\n\n\n,   \"action_inc_min\":    1  // default:   1,  key: Alt + Up\n,   \"action_dec_min\":   -1  // default:  -1,  key: Alt + Down\n,   \"action_ins_min\":    1  // default:   1,  key: Alt + Insert\n\n,   \"action_inc_max\":   10  // default:  10,  key: Super + Up\n,   \"action_dec_max\":  -10  // default: -10,  key: Super + Down\n,   \"action_ins_max\":   10  // default:  10,  key: Super + Insert\n\n,   \"action_inc_all\":  100  // default:  100,  key: Super + Alt + Up\n,   \"action_dec_all\": -100  // default: -100,  key: Super + Alt + Down\n,   \"action_ins_all\":  100  // default:  100,  key: Super + Alt + Insert\n\n\n,   \"enums\": [\n        [\"yes\", \"no\"]\n    ,   [\"true\", \"false\"]\n\n    ,   [\"relative\", \"absolute\", \"fixed\" ]\n    ,   [\"top\",      \"bottom\" ]\n    ,   [\"left\",     \"right\"  ]\n    ,   [\"width\",    \"height\" ]\n    ,   [\"margin\",   \"padding\"]\n    ,   [\"block\",    \"none\",     \"inline\", \"inline-block\"]\n\n    ,   [\"h1\", \"h2\", \"h3\", \"h4\", \"h5\", \"h6\"]\n\n    ,   [\"am\", \"pm\"]\n    ,   [\"sun\", \"mon\", \"tue\", \"wed\", \"thu\", \"fri\", \"sat\"]\n    ,   [\"sunday\", \"monday\", \"tuesday\", \"wednesday\", \"thursday\", \"friday\", \"saturday\"]\n    ,   [\"jan\", \"feb\", \"mar\", \"apr\", \"may\", \"jun\", \"jul\", \"aug\", \"sep\", \"oct\", \"nov\", \"dec\"]\n\n    ,   [\"TODO\", \"DONE\", \"FIXME\"]\n    ]\n\n,   \"user_enums\": []\n\n,   \"force_use_upper_case_for_hex_color\": false\n\n,   \"autosave\": false\n\n,   \"space_after_comma_in_rgba\": true\n\n,   \"RGB_instead_RGBA\": false\n\n}\n",
+					"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 230.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/projects/dimantine-frontend",
+				"/D/projects/dimantine-frontend/app/component"
+			],
+			"file_history":
+			[
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
+				"/D/projects/dimantine-frontend/index.html",
+				"/D/projects/dimantine-frontend/app/app.routes.js",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alt",
+					"constant"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\projects\\dimantine-frontend"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/projects/dimantine-frontend/gruntfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/Seti_UI/icons/Langs/Gruntfile JS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/projects/dimantine-frontend/app/app.module.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 351,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										98,
+										105
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2680,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2680,
+										2680
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 710,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										427,
+										427
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/projects/dimantine-frontend/app/app.routes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										74,
+										74
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/projects/dimantine-frontend/karma.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2091,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										95,
+										95
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/projects/dimantine-frontend/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 234,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										55,
+										55
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1327,
+										1331
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 168.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,25,25,681",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 176.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

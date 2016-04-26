@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/*global angular*/
+    (function() {
+        'use strict';
+        angular.module("$1")
+            .config(['\$stateProvider', '\$urlRouterProvider', function(\$stateProvider, \$urlRouterProvider ) {
+                $stateProvider.state('$2', {
+                    url: '/$3',
+                    templateUrl: '$4'
+                });
+                $urlRouterProvider.otherwise('/$5');
+            }]);
+    }());
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>config</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

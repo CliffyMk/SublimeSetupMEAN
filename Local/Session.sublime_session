@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/projects/dimantine-frontend"
 	],
 	"last_version": 3103,
 	"last_window_id": 1,
@@ -50,6 +51,10 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/projects/dimantine-frontend"
+			],
 			"file_history":
 			[
 			],
@@ -83,6 +88,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\projects\\dimantine-frontend"
+				}
+			],
 			"groups":
 			[
 				{
@@ -127,7 +138,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,563,25,25,681",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,25,25,681",
 			"project": "",
 			"replace":
 			{
@@ -169,7 +180,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 216.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

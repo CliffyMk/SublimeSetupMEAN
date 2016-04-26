@@ -1,0 +1,11 @@
+[
+  { "keys": ["ctrl+shift+c", "ctrl+shift+s"], "command": "convert_to_snake"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+c"], "command": "convert_to_camel"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+p"], "command": "convert_to_pascal"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+d"], "command": "convert_to_dot"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+h"], "command": "convert_to_dash"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+w"], "command": "convert_to_separate_words"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+/"], "command": "convert_to_slash"},
+  { "keys": ["ctrl+shift+c", "ctrl+shift+b"], "command": "convert_to_back_slash"},
+  { "keys": ["ctrl+shift+-"], "command": "toggle_snake_camel_pascal"}
+]
