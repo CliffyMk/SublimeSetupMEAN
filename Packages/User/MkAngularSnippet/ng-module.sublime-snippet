@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+ /*global angular*/
+ (function () {
+     'use strict';
+     var dependencies = [];
+     var app = angular.module("$1", dependencies);
+     
+     app.run(['$2', function ($2) {
+		$3
+     }]);
+ }());
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ng-module</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

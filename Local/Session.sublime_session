@@ -1,13 +1,238 @@
 {
 	"folder_history":
 	[
+		"/D/projects/Repo_cyro_cell",
+		"/D/projects/startbootstrap-landing-page-1.0.5",
+		"/D/projects/startbootstrap-creative-1.0.2",
+		"/D/projects/pure-layout-marketing",
+		"/D/projects/Repo_cyro-cell",
 		"/D/projects/dimantine-frontend"
 	],
-	"last_version": 3103,
-	"last_window_id": 1,
+	"last_version": 3114,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"$stat",
+						"$stateProvider	(?)"
+					],
+					[
+						"html",
+						"html5	Simple HTML5 Boilerplate"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 230.0,
+				"last_filter": "Package Control: insa",
+				"selected_items":
+				[
+					[
+						"Package Control: insa",
+						"Package Control: Install Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
+				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
+				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
+				"/D/projects/dimantine-frontend/index.html",
+				"/D/projects/dimantine-frontend/app/app.routes.js",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"d",
+					"btn",
+					"alt",
+					"constant"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 53.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -16,10 +241,98 @@
 			{
 				"selected_items":
 				[
+					[
+						"ngmod",
+						"ng-module	ng-module"
+					],
+					[
+						"module",
+						"module	QUnit module"
+					],
+					[
+						"offset",
+						"offset	.offset()"
+					],
+					[
+						"off",
+						"offset	.offset()"
+					],
+					[
+						"ea",
+						"each	$.each()"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"scroll",
+						"scrollTop	.scrollTop()"
+					],
+					[
+						"window",
+						"windowTopHeight"
+					],
+					[
+						"$stat",
+						"$stateProvider	(?)"
+					],
+					[
+						"html",
+						"html5	Simple HTML5 Boilerplate"
+					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/projects/bootstrap_starter_template/index.html",
+					"settings":
+					{
+						"buffer_size": 5252,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/projects/dimantine-frontend/app/app.module.js",
+					"settings":
+					{
+						"buffer_size": 285,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-module.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 475,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/projects/Repo_cyro_cell/index.html",
+					"settings":
+					{
+						"buffer_size": 5375,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/projects/Repo_cyro_cell/assets/css/index.css",
+					"settings":
+					{
+						"buffer_size": 4029,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
+					"settings":
+					{
+						"buffer_size": 828,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -28,12 +341,68 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 354.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insa",
+						"Package Control: Install Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 454.0
 			},
 			"console":
 			{
@@ -53,18 +422,51 @@
 			},
 			"expanded_folders":
 			[
-				"/D/projects/dimantine-frontend"
+				"/D/projects/Repo_cyro_cell",
+				"/D/projects/Repo_cyro_cell/assets/js"
 			],
 			"file_history":
 			[
+				"/D/projects/startbootstrap-creative-1.0.2/index.html",
+				"/D/projects/Repo_cyro_cell/app/app.module.js",
+				"/D/projects/bootstrap_starter_template/app/app.module.js",
+				"/D/projects/Repo_cyro_cell/assets/css/index.css",
+				"/D/projects/dimantine-frontend/app/app.routes.js",
+				"/D/projects/Repo_cyro_cell/app/app.route.js",
+				"/D/projects/dimantine-frontend/app/app.module.js",
+				"/D/projects/Repo_cyro_cell/index.html",
+				"/D/projects/Repo_cyro_cell/shared/js/index.js",
+				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
+				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
+				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
+				"/D/projects/dimantine-frontend/index.html",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 158.0,
 				"where_history":
 				[
 				]
@@ -74,6 +476,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"assets",
+					"div",
+					"index",
+					"public",
+					"	\n",
+					"topnav",
+					"topnav\\",
+					"d",
+					"btn",
+					"alt",
+					"constant"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -91,24 +504,556 @@
 			"folders":
 			[
 				{
-					"path": "D:\\projects\\dimantine-frontend"
+					"path": "D:\\projects\\Repo_cyro_cell"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/projects/bootstrap_starter_template/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										448,
+										448
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/projects/dimantine-frontend/app/app.module.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 285,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										285,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-module.sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										333,
+										333
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"default_extension": "sublime-snippet",
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/projects/Repo_cyro_cell/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5375,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5346,
+										5346
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2425.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/projects/Repo_cyro_cell/assets/css/index.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4029,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3388,
+										3388
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/CSS3/CSS3.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3598.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 828,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										330,
+										330
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 68.0
 			},
 			"layout":
 			{
@@ -133,6 +1078,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 53.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -142,7 +1091,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -180,12 +1129,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 216.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 7,
 			"workspace_name": ""
 		}
 	],

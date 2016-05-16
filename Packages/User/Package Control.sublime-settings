@@ -22,6 +22,7 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Inc-Dec-Value",
+		"jQuery",
 		"JSLint",
 		"Material Color Scheme",
 		"Material Theme",
@@ -33,6 +34,7 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter-contrib-eslint",
-		"TernJS"
+		"TernJS",
+		"TypeScript"
 	]
 }
