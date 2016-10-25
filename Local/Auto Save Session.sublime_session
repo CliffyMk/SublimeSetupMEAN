@@ -1,6 +1,24 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Manish/project/repo-json-creation",
+		"/C/Users/Manish/project/ignite_answer_site",
+		"/C/Users/Manish/project/sapc4c",
+		"/C/Users/Manish/project/repo_cyro_cell_heroku_3",
+		"/C/Users/Manish/project/repo_cyro_cell",
+		"/C/Users/Manish/Desktop/demoThinkster",
+		"/C/Users/Manish/project/dimantine-dashboard",
+		"/C/Users/Manish/project/dribble",
+		"/C/Users/Manish/project/sapC4C",
+		"/C/Users/Manish/project/rtmaspa",
+		"/C/Users/Manish/project/sapC4C/demo/types",
+		"/C/Users/Manish/project/repo_cyro_cell_heroku",
+		"/C/Users/Manish/project/CliffyMk.github.io",
+		"/C/Users/Manish/project/repo_india_mgmt",
+		"/C/Users/Manish/project/dimantine-frontend",
+		"/C/Users/Manish/project/repo-cyro-cell",
+		"/C/Users/Manish/project/repo_cyro_cell/app",
+		"/C/Users/Manish/project/nodeDemo",
 		"/D/projects/Repo_cyro_cell",
 		"/D/projects/startbootstrap-landing-page-1.0.5",
 		"/D/projects/startbootstrap-creative-1.0.2",
@@ -8,12 +26,12 @@
 		"/D/projects/Repo_cyro-cell",
 		"/D/projects/dimantine-frontend"
 	],
-	"last_version": 3114,
-	"last_window_id": 7,
+	"last_version": 3126,
+	"last_window_id": 35,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 479.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -21,12 +39,212 @@
 				"selected_items":
 				[
 					[
-						"$stat",
-						"$stateProvider	(?)"
+						"getMov",
+						"getMovieInfo\t(app.service.js)"
+					],
+					[
+						"Ignit",
+						"IgniteSolutionApp\t(app.module.js)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"Json",
+						"JsonCreationApp\t(configSchemaCtrl.js)"
+					],
+					[
+						"m",
+						"modifyExisting/"
+					],
+					[
+						"function",
+						"function\tfunction"
+					],
+					[
+						"jquery",
+						"jquery-1.12.4.min.js\t(jquerycdn.xml)"
 					],
 					[
 						"html",
-						"html5	Simple HTML5 Boilerplate"
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"data",
+						"dataTransfer"
+					],
+					[
+						"src",
+						"srcDragElement"
+					],
+					[
+						"righ",
+						"rightFileInput"
+					],
+					[
+						"left",
+						"leftCsv\t(mapping.html)"
+					],
+					[
+						"rightC",
+						"rightCsv\t(mapping.html)"
+					],
+					[
+						"ri",
+						"rightCsv\t(mappingCtrl.js)"
+					],
+					[
+						"unde",
+						"undefined\t(?)"
+					],
+					[
+						"each",
+						"each\t$.each()"
+					],
+					[
+						"service",
+						"service\tAngularJS"
+					],
+					[
+						"templ",
+						"templateUrl"
+					],
+					[
+						"module",
+						"verbose_module\tAngularJS"
+					],
+					[
+						"slideIN",
+						"slideInUp\t(style.css)"
+					],
+					[
+						"sli",
+						"slideUp\t.slideUp()"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"Mapp",
+						"MappingApp\t(app.module.js)"
+					],
+					[
+						"$rou",
+						"$routeProvider\tAngularJS"
+					],
+					[
+						"ng",
+						"ngfactory\tFactory"
+					],
+					[
+						"angul",
+						"angular-mocks\t(package.json)"
+					],
+					[
+						"bs3table",
+						"bs3-table:striped\tbs3-table-striped"
+					],
+					[
+						"dire",
+						"verbose_directive\tAngularJS"
+					],
+					[
+						"temp",
+						"templateUrl"
+					],
+					[
+						"route",
+						"$route\tAngularJS"
+					],
+					[
+						"ngmodu",
+						"ng-module\tng-module"
+					],
+					[
+						"side",
+						"sideBarSubMenuColor"
+					],
+					[
+						"list-grou",
+						"list-group-item"
+					],
+					[
+						"bs3te",
+						"bs3-input:text\tbs3-input-text"
+					],
+					[
+						"bs3f",
+						"bs3-form:horizontal\tbs3-form-horizontal"
+					],
+					[
+						"list-g",
+						"list-group-item\t(sidebar.html)"
+					],
+					[
+						"white",
+						"white-space\t(index.css)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"s",
+						"services/"
+					],
+					[
+						"c",
+						"components/"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"listgor",
+						"list-group-item"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"styl",
+						"style\tAttr"
+					],
+					[
+						"ngmod",
+						"ng-module\tng-module"
+					],
+					[
+						"offset",
+						"offset\t.offset()"
+					],
+					[
+						"off",
+						"offset\t.offset()"
+					],
+					[
+						"ea",
+						"each\t$.each()"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"scroll",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"window",
+						"windowTopHeight"
+					],
+					[
+						"$stat",
+						"$stateProvider\t(?)"
 					]
 				]
 			},
@@ -36,10 +254,50 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 230.0,
-				"last_filter": "Package Control: insa",
+				"height": 354.0,
+				"last_filter": "disa",
 				"selected_items":
 				[
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"insatl",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
 					[
 						"Package Control: insa",
 						"Package Control: Install Package"
@@ -57,20 +315,8 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
 					],
 					[
 						"",
@@ -78,18 +324,6 @@
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					]
 				],
@@ -113,40 +347,145 @@
 			},
 			"file_history":
 			[
-				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
-				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
-				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
-				"/D/projects/dimantine-frontend/index.html",
-				"/D/projects/dimantine-frontend/app/app.routes.js",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+				"/C/Users/Manish/project/ignite_answer_site/app/components/main/homeCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.service.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/searchResult/searchResult.html",
+				"/C/Users/Manish/project/ignite_answer_site/assets/css/index.css",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.module.js",
+				"/C/Users/Manish/project/ignite_answer_site/index.html",
+				"/C/Users/Manish/project/ignite_answer_site/app/indexCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.route.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.directive.js",
+				"/C/Users/Manish/project/ignite_answer_site/info.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/shared/header.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPrevious.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPreviousCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/connectorTypes.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStructCtrl.js",
+				"/C/Users/Manish/Desktop/OracleAppsConnector.json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMap.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/subType.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/bootstrap.mod.css",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/css.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/index.html",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/SubTypeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlike.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlikeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/app.routes.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.input.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modifyExisting.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNew.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNewCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/modExisting.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modExistingCtrl.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modExisting.svc.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-function.sublime-snippet",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Manish/project/sapc4c/assets/css/index.css",
+				"/C/Users/Manish/project/dimantine-dashboard/index.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/scss/print.scss",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/addUser/addUser.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/addBrand/addBrand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/shared/sidebar.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/orders/orders.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/users.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/app.routes.js",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/sales/sales.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/category/addCategory/addCategory.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/brand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/css/print.css",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/console.sublime-snippet",
+				"/C/Users/Manish/project/sapC4C/demo1/index.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mappedCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mapped.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/findstudentcontroller.js",
+				"/C/Users/Manish/project/rtmaspa/partials/findstudentssolr.html",
+				"/C/Users/Manish/project/rtmaspa/js/services/DriveService.js",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/FindDrivesController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/finddrives.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/ImportController.js",
+				"/C/Users/Manish/project/rtmaspa/js/services/app.interceptor.js",
+				"/C/Users/Manish/project/rtmaspa/js/app.js",
+				"/C/Users/Manish/project/rtmaspa/js/router.js",
+				"/C/Users/Manish/project/rtmaspa/partials/createdrive.html",
+				"/C/Users/Manish/project/rtmaspa/js/theme.js",
+				"/C/Users/Manish/project/rtmaspa/partials/extraactivities.html",
+				"/C/Users/Manish/project/rtmaspa/css/style.css",
+				"/C/Users/Manish/project/rtmaspa/partials/acadamicdetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/contactdetails.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/AddQuestionController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/ImportQuestions.html",
+				"/C/Users/Manish/project/rtmaspa/index.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/CreateDriveController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/addquestion.html",
+				"/C/Users/Manish/project/rtmaspa/partials/drivemonitor.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentRegistration.html",
+				"/C/Users/Manish/project/rtmaspa/partials/PersonalDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/login.html",
+				"/C/Users/Manish/project/rtmaspa/js/app.directive.js",
+				"/C/Users/Manish/project/rtmaspa/partials/technical.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidatelogin.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidateAptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/aptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/forgetpassword.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/main/mainCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/main/main.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/app.module.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/app.route.js",
+				"/C/Users/Manish/project/sapC4C/demo1/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/components/mapping/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/components/main/mainCtrl.js",
+				"/C/Users/Manish/project/sapC4C/package.json",
+				"/C/Users/Manish/project/sapC4C/demo1/components/main/main.html",
+				"/C/Users/Manish/project/sapC4C/demo1/assets/app.route.js",
+				"/C/Users/Manish/project/sapC4C/demo1/assets/app.module.js",
+				"/C/Users/Manish/project/CliffyMk.github.io/shared/app.module.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings"
 			],
 			"find":
 			{
-				"height": 70.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
 				"height": 158.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -154,10 +493,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"d",
+					"mc",
+					"main",
+					"Detail",
+					"1",
+					"#909",
+					"909",
+					"4",
+					"header",
+					"$locationProvider",
+					"/",
+					"src=\"",
+					"app/",
+					"[index]",
+					"</button>",
+					"<button",
+					"button",
+					"z-index=",
+					"=",
+					"span",
+					"modCo",
+					"a",
+					"button",
+					"input[type=\"text\"]",
+					"span",
+					"12",
+					"data-ng",
+					"modCo",
+					"6",
+					"modwell",
+					"<input",
+					"disabled",
+					"managedSystems.configs",
+					"connector.config",
+					"config",
+					"button",
+					"cs",
+					"initial",
+					"vm.",
+					"self.",
+					"vm.",
+					"rmActiveBtnFn",
+					"rmacti",
+					"$('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');\n            $(event.currentTarget).addClass(\"activeTreeBtn\");\n",
+					"configName",
+					"<span class=\"input-group-addon",
+					"name=\"entity\" id=\"inputEntity\"",
+					"$(event.currentTarget).addClass(\"activeTreeBtn\");\n            $('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');",
+					"event",
+					"vm",
+					"6",
+					"z-index",
+					"11",
+					" ",
+					"id=\"input\"",
+					"id=\"basic-addon1\"",
+					"btn-sm",
+					"self.config[name]",
+					"[control]",
+					"[$index]",
+					"$parent.$index",
+					"[$parent.$index]",
+					"0",
+					"self.group[0].data[0].ctrl",
+					"obj",
+					"text",
+					"obj[self.currIndex]",
+					"self.group[self.currGrpIndex]",
+					"[index]",
+					"index",
+					"cc.ctrl",
+					"obj.supportedSubTypes",
+					"['supportedSubTypes']",
+					"\"",
+					"['containedEntities']",
+					"\"",
+					"['supportedEntities']",
+					"control.type",
+					".",
+					"cs.controls",
+					"cs.",
+					"12",
+					"vm",
+					"role=\"presentation\"",
+					"<a></a>",
+					"href=\"#\"",
+					" ",
+					"\"false\"",
+					"\"true\"",
+					"con",
+					"div",
+					"class=\"btn",
 					"btn",
-					"alt",
-					"constant"
+					"div",
+					"obj",
+					"vm.connector.schema[vm.currEntity]",
+					"containedEntities",
+					"downloadSequence",
+					"[vm.currEntity]",
+					".downloadSequence",
+					"vm.connector[vm.currEntity].downloadSequence",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"vm.con.subTypeInfo[vm.currEntity].subType[vm.currSubType]",
+					"obj.subType[vm.currSubType]",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"Password",
+					"password",
+					"Password",
+					"password",
+					"<div class=\"col-md-6\">",
+					"6",
+					"3",
+					"user",
+					"addUser",
+					"/*",
+					"Category",
+					"0",
+					"animatedImage",
+					"target",
+					"'",
+					"Text",
+					"iElm",
+					"fileinput",
+					"fileInput",
+					"leftColumn",
+					"vm.getLeftColumn",
+					"getLeftColumn",
+					"3",
+					"timesheetUrl"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -165,6 +628,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"self.",
+					"vm.",
+					"false"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -174,7 +640,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -183,7 +649,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 53.0
+				"height": 55.0
 			},
 			"output.find_results":
 			{
@@ -192,7 +658,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 114.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -201,6 +667,330 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ind",
+						"assets\\css\\index.css"
+					],
+					[
+						"in",
+						"assets\\css\\index.css"
+					],
+					[
+						"head",
+						"app\\shared\\header.html"
+					],
+					[
+						"con",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"boots",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"boot",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"config",
+						"app\\components\\treeMapping\\configSchema\\configSchemaCtrl.js"
+					],
+					[
+						"boo",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"inde",
+						"assets\\css\\index.css"
+					],
+					[
+						"tre",
+						"app\\components\\treeMapping\\treeMapCtrl.js"
+					],
+					[
+						"attr",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"sub",
+						"app\\components\\treeMapping\\partials\\subType\\subType.html"
+					],
+					[
+						"attri",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"mod",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"configsc",
+						"app\\components\\treeMapping\\configSchema\\configSchema.html"
+					],
+					[
+						"confi",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"configct",
+						"app\\components\\treeMapping\\partials\\config\\configCtrl.js"
+					],
+					[
+						"took",
+						"app\\components\\treeMapping\\partials\\configSchema\\toolkit.html"
+					],
+					[
+						"ha",
+						"app\\shared\\header.html"
+					],
+					[
+						"css",
+						"css.txt"
+					],
+					[
+						"index",
+						"assets\\css\\index.css"
+					],
+					[
+						"mapping",
+						"app\\components\\mapping\\mapping.html"
+					],
+					[
+						"sal",
+						"app\\component\\sales\\sales.html"
+					],
+					[
+						"side",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"sidd",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"importcon",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"crea",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"extr",
+						"partials\\extraactivities.html"
+					],
+					[
+						"sty",
+						"css\\style.css"
+					],
+					[
+						"acad",
+						"partials\\acadamicdetails.html"
+					],
+					[
+						"conta",
+						"partials\\contactdetails.html"
+					],
+					[
+						"question",
+						"js\\controllers\\AddQuestionController.js"
+					],
+					[
+						"find",
+						"js\\controllers\\findstudentcontroller.js"
+					],
+					[
+						"findso",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"impo",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"import",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"create",
+						"partials\\createdrive.html"
+					],
+					[
+						"impor",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"impot",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"drivemo",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"creat",
+						"partials\\createdrive.html"
+					],
+					[
+						"login",
+						"partials\\login.html"
+					],
+					[
+						"createcont",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"regist",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"cre",
+						"partials\\createdrive.html"
+					],
+					[
+						"styl",
+						"css\\style.css"
+					],
+					[
+						"regi",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"person",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"styel",
+						"css\\style.css"
+					],
+					[
+						"add",
+						"partials\\addquestion.html"
+					],
+					[
+						"drivemon",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"inpor",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"l",
+						"partials\\login.html"
+					],
+					[
+						"sy",
+						"css\\style.css"
+					],
+					[
+						"drive",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"finds",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"imp",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"candi",
+						"partials\\candidatelogin.html"
+					],
+					[
+						"rout",
+						"js\\router.js"
+					],
+					[
+						"pe",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"finssol",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"fiin",
+						"partials\\finddrives.html"
+					],
+					[
+						"cer",
+						"partials\\createdrive.html"
+					],
+					[
+						"foote",
+						"app\\shared\\footer.html"
+					],
+					[
+						"gene",
+						"app\\component\\setting\\general\\generalSetting.html"
+					],
+					[
+						"brand",
+						"app\\component\\brand\\brand.html"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"sid",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"cate",
+						"app\\component\\category\\category.html"
+					],
+					[
+						"pro",
+						"app\\component\\products\\products.html"
+					],
+					[
+						"enr",
+						"app\\components\\planAndPricing\\enrollmentProcess.html"
+					],
+					[
+						"font",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"fonte",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"abou",
+						"app\\components\\Aboutus\\aboutus.html"
+					],
+					[
+						"cord",
+						"app\\components\\services\\cordBlood.html"
+					],
+					[
+						"fon",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"indexcss",
+						"assets\\css\\index.css"
+					],
+					[
+						"indes",
+						"app\\indexCtrl.js"
+					],
+					[
+						"hea",
+						"app\\shared\\header\\header.html"
+					],
+					[
+						"index.css",
+						"assets\\css\\index.css"
+					],
+					[
+						"index.cs",
+						"assets\\css\\index.css"
+					]
 				],
 				"width": 0.0
 			},
@@ -226,7 +1016,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 238.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -242,28 +1032,216 @@
 				"selected_items":
 				[
 					[
-						"route",
-						"$routeProvider	AngularJS"
+						"conne",
+						"connectorTypes"
 					],
 					[
-						"ngmod",
-						"ng-module	ng-module"
+						"local",
+						"localEnvironment\t(headerCtrl.js)"
+					],
+					[
+						"list-",
+						"list-group-item-hover\t(index.css)"
+					],
+					[
+						"wihte",
+						"white-space"
+					],
+					[
+						"disp",
+						"displayMsg"
+					],
+					[
+						"getMov",
+						"getMovieInfo\t(app.service.js)"
+					],
+					[
+						"Ignit",
+						"IgniteSolutionApp\t(app.module.js)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"Json",
+						"JsonCreationApp\t(configSchemaCtrl.js)"
+					],
+					[
+						"m",
+						"modifyExisting/"
+					],
+					[
+						"function",
+						"function\tfunction"
+					],
+					[
+						"jquery",
+						"jquery-1.12.4.min.js\t(jquerycdn.xml)"
+					],
+					[
+						"html",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"data",
+						"dataTransfer"
+					],
+					[
+						"src",
+						"srcDragElement"
+					],
+					[
+						"righ",
+						"rightFileInput"
+					],
+					[
+						"left",
+						"leftCsv\t(mapping.html)"
+					],
+					[
+						"rightC",
+						"rightCsv\t(mapping.html)"
+					],
+					[
+						"ri",
+						"rightCsv\t(mappingCtrl.js)"
+					],
+					[
+						"unde",
+						"undefined\t(?)"
+					],
+					[
+						"each",
+						"each\t$.each()"
+					],
+					[
+						"service",
+						"service\tAngularJS"
+					],
+					[
+						"templ",
+						"templateUrl"
 					],
 					[
 						"module",
-						"module	QUnit module"
+						"verbose_module\tAngularJS"
+					],
+					[
+						"slideIN",
+						"slideInUp\t(style.css)"
+					],
+					[
+						"sli",
+						"slideUp\t.slideUp()"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"Mapp",
+						"MappingApp\t(app.module.js)"
+					],
+					[
+						"$rou",
+						"$routeProvider\tAngularJS"
+					],
+					[
+						"ng",
+						"ngfactory\tFactory"
+					],
+					[
+						"angul",
+						"angular-mocks\t(package.json)"
+					],
+					[
+						"bs3table",
+						"bs3-table:striped\tbs3-table-striped"
+					],
+					[
+						"dire",
+						"verbose_directive\tAngularJS"
+					],
+					[
+						"temp",
+						"templateUrl"
+					],
+					[
+						"route",
+						"$route\tAngularJS"
+					],
+					[
+						"ngmodu",
+						"ng-module\tng-module"
+					],
+					[
+						"side",
+						"sideBarSubMenuColor"
+					],
+					[
+						"list-grou",
+						"list-group-item"
+					],
+					[
+						"bs3te",
+						"bs3-input:text\tbs3-input-text"
+					],
+					[
+						"bs3f",
+						"bs3-form:horizontal\tbs3-form-horizontal"
+					],
+					[
+						"list-g",
+						"list-group-item\t(sidebar.html)"
+					],
+					[
+						"white",
+						"white-space\t(index.css)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"s",
+						"services/"
+					],
+					[
+						"c",
+						"components/"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"listgor",
+						"list-group-item"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"styl",
+						"style\tAttr"
+					],
+					[
+						"ngmod",
+						"ng-module\tng-module"
 					],
 					[
 						"offset",
-						"offset	.offset()"
+						"offset\t.offset()"
 					],
 					[
 						"off",
-						"offset	.offset()"
+						"offset\t.offset()"
 					],
 					[
 						"ea",
-						"each	$.each()"
+						"each\t$.each()"
 					],
 					[
 						"wind",
@@ -271,7 +1249,7 @@
 					],
 					[
 						"scroll",
-						"scrollTop	.scrollTop()"
+						"scrollTop\t.scrollTop()"
 					],
 					[
 						"window",
@@ -279,72 +1257,47 @@
 					],
 					[
 						"$stat",
-						"$stateProvider	(?)"
-					],
-					[
-						"html",
-						"html5	Simple HTML5 Boilerplate"
+						"$stateProvider\t(?)"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/projects/Repo_cyro_cell/index.html",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
 					"settings":
 					{
-						"buffer_size": 5704,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "/*global angular*/\n(function () {\n    'use strict';\n    angular.module('CyroCellApp').controller('IndexController', ['$scope', function ($scop) {\n        var vm = this\n        \n    }]);\n}());\n",
-					"file": "/D/projects/Repo_cyro_cell/app/indexCtrl.js",
-					"file_size": 192,
-					"file_write_time": 131078725005751269,
-					"settings":
-					{
-						"buffer_size": 192,
+						"buffer_size": 11677,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/app/app.route.js",
+					"contents": "/*global angular*/\n(function() {\n    'use strict';\n    angular.module('JsonCreationApp').controller('ConfigCtrl', ['$scope', 'localData', '$window', 'ConnectorService', function($scope, localData, $window, ConnectorService) {\n        var self = this;\n        var init = function() {\n            self.copyConfig = self.copyConfig || {};\n            self.currConfigIndex = 0;\n            self.configs = [];\n            self.configs[0] = {};\n        };\n        init();\n        self.addConfigs = function(obj) {\n            obj.configs[self.configs.length] = obj.configs[self.configs.length] || {};\n            self.configs.push({});\n        };\n        // to convert the config and inserting into connector json\n        var updateJson = function(connector, config) {\n            connector.managedSystems = connector.managedSystems || {};\n            connector.managedSystems.configs = connector.managedSystems.configs || [];\n            angular.forEach(config, function(outerValue, outerIndex) {\n                angular.forEach(config[outerIndex], function(value, index) {\n                    if (index === 'connectorDetails') {\n                        angular.forEach(value, function(val, in2) {\n                            angular.forEach(val, function(v, i) {\n                                connector.managedSystems.configs[outerIndex] = connector.managedSystems.configs[outerIndex] || {};\n                                connector.managedSystems.configs[outerIndex][i] = connector.managedSystems.configs[outerIndex][i] || {};\n                                connector.managedSystems.configs[outerIndex][i] = v;\n                            });\n                        });\n                    } else {\n                        connector.managedSystems.configs[outerIndex] = connector.managedSystems.configs[outerIndex] || {};\n                        connector.managedSystems.configs[outerIndex][index] = connector.managedSystems.configs[outerIndex][index] || [];\n                        angular.copy(value, connector.managedSystems.configs[outerIndex][index]);\n                    }\n                });\n            });\n            return connector;\n        };\n        self.selectRadioOption = function(name, value, event, control, index, data) {\n            var id = name + control + index;\n            data[name] = data[name] || {};\n            var obj = data[name];\n            obj[index] = obj[index] || {};\n            obj[index][control] = value;\n            $(\"div#\" + id + \" a.btn-primary\").removeClass(\"btn-primary\").addClass(\"btn-default\");\n            $(event.currentTarget).removeClass(\"btn-default\").addClass(\"btn-primary\");\n        };\n        self.rmConfig = function(index, obj) {\n            obj.splice(index, 1);\n            self.configs.splice(index, 1);;\n        };\n        // downloading the json formed\n        self.saveManagedSystemConfigFn = function(obj) {\n            var connector = {};\n            var param = [obj];\n            connector = updateJson(connector, param);\n            var promise = ConnectorService.addManagedSystemConfig(connector.managedSystems.configs[0]);\n            promise.then(function(res) {\n                \n                var returnObj = ConnectorService.addManagedSystemConfig(connector.managedSystems.configs[0]);\n                var uuid = connector.managedSystems.configs[0].managedSystemUUID;\n                obj.connectorDetails[\"managedSystemUUID\"] = { managedSystemUUID: uuid };\n            }, function() {\n                console.log(\"it failed Miserably\");\n            });\n\n            // angular.copy(obj, returnObj);\n        };\n        self.updateManagedSystemConfigFn = function(obj) {\n\n        }\n        self.save = function(name, connector, config) {\n            var storageObj = updateJson(connector, config);\n            storageObj = {\n                connector: storageObj\n            };\n            //Save the file contents as a DataURI\n            var dataStr = \"data:text/json;charset=utf-8,\" + encodeURIComponent(JSON.stringify(storageObj));\n            var dlAnchorElem = document.getElementById('hiddenSaveBtn');\n            dlAnchorElem.setAttribute(\"href\", dataStr);\n            dlAnchorElem.setAttribute(\"download\", name + '.json');\n            dlAnchorElem.click();\n        };\n        // global functions \n        $scope.$on('loadPreviousFile', function(event, data) {\n            self.fileName = data.fileName;\n            // self.connector.config = data.config;\n            self.ctrl = data.ctrl;\n            //$(\"div#\" + id + \" a.btn-primary\").removeClass(\"btn-primary\").addClass(\"btn-default\");\n        })\n    }]);\n}());\n",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
+					"file_size": 4679,
+					"file_write_time": 131218681528016159,
 					"settings":
 					{
-						"buffer_size": 1,
+						"buffer_size": 4604,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/app/app.module.js",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
 					"settings":
 					{
-						"buffer_size": 176,
+						"buffer_size": 3982,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/services/connector.svc.js",
 					"settings":
 					{
-						"buffer_size": 773,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/projects/Repo_cyro_cell/app/home/home.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/projects/Repo_cyro_cell/app/home/homeCtrl.js",
-					"settings":
-					{
-						"buffer_size": 184,
+						"buffer_size": 5698,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -357,9 +1310,45 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "",
+				"last_filter": "disa",
 				"selected_items":
 				[
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"insatl",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
 					[
 						"Package Control: ins",
 						"Package Control: Install Package"
@@ -381,20 +1370,8 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
 					],
 					[
 						"",
@@ -402,18 +1379,6 @@
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					]
 				],
@@ -437,48 +1402,143 @@
 			},
 			"expanded_folders":
 			[
-				"/D/projects/Repo_cyro_cell",
-				"/D/projects/Repo_cyro_cell/app",
-				"/D/projects/Repo_cyro_cell/assets",
-				"/D/projects/Repo_cyro_cell/assets/js"
+				"/C/Users/Manish/project/repo-json-creation",
+				"/C/Users/Manish/project/repo-json-creation/app",
+				"/C/Users/Manish/project/repo-json-creation/app/components",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config",
+				"/C/Users/Manish/project/repo-json-creation/app/services"
 			],
 			"file_history":
 			[
-				"/D/projects/dimantine-frontend/app/app.module.js",
-				"/D/projects/Repo_cyro_cell/assets/js/index.js",
-				"/D/projects/Repo_cyro_cell/assets/css/index.css",
-				"/D/projects/Repo_cyro_cell/index.html",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-module.sublime-snippet",
-				"/D/projects/bootstrap_starter_template/index.html",
-				"/D/projects/startbootstrap-creative-1.0.2/index.html",
-				"/D/projects/Repo_cyro_cell/app/app.module.js",
-				"/D/projects/bootstrap_starter_template/app/app.module.js",
-				"/D/projects/dimantine-frontend/app/app.routes.js",
-				"/D/projects/Repo_cyro_cell/app/app.route.js",
-				"/D/projects/Repo_cyro_cell/shared/js/index.js",
-				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
-				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
-				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
-				"/D/projects/dimantine-frontend/index.html",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+				"/C/Users/Manish/project/repo-json-creation/app/shared/headerCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/shared/header.html",
+				"/C/Users/Manish/project/repo-json-creation/app/app.module.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMap.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/messageBox.svc.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-httpget.sublime-snippet",
+				"/C/Users/Manish/Downloads/adfasdf.json",
+				"/C/Users/Manish/Downloads/asdfasdf (4).json",
+				"/C/Users/Manish/Downloads/asdf (1).json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/controlGeneration.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/groupControlGeneration.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/managedSystemTree.html",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
+				"/C/Users/Manish/Downloads/asdfd.json",
+				"/C/Users/Manish/Downloads/asdfdd.json",
+				"/C/Users/Manish/Downloads/adf.json",
+				"/C/Users/Manish/Downloads/asdf.json",
+				"/C/Users/Manish/Downloads/adf (1).json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/groupControl.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/modalCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/sideMessage.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schemaToolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/messageBox.html",
+				"/C/Users/Manish/Downloads/asdfasdf.json",
+				"/C/Users/Manish/Downloads/asdfasdf (1).json",
+				"/C/Users/Manish/Downloads/asdfasdf (3).json",
+				"/C/Users/Manish/Downloads/asd.json",
+				"/C/Users/Manish/Downloads/asdfsadf.json",
+				"/C/Users/Manish/Downloads/fsdfsd.json",
+				"/C/Users/Manish/project/repo-json-creation/app/services/app.localstorageSvc.js",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/bootstrap.mod.css",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/oracleappconnector_2.json",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/main/homeCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.service.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/searchResult/searchResult.html",
+				"/C/Users/Manish/project/ignite_answer_site/assets/css/index.css",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.module.js",
+				"/C/Users/Manish/project/ignite_answer_site/index.html",
+				"/C/Users/Manish/project/ignite_answer_site/app/indexCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.route.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.directive.js",
+				"/C/Users/Manish/project/ignite_answer_site/info.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPrevious.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPreviousCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/connectorTypes.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStructCtrl.js",
+				"/C/Users/Manish/Desktop/OracleAppsConnector.json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/subType.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/css.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/index.html",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/SubTypeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlike.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlikeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/app.routes.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.input.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modifyExisting.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNew.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNewCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/modExisting.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modExistingCtrl.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modExisting.svc.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-function.sublime-snippet",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Manish/project/sapc4c/assets/css/index.css",
+				"/C/Users/Manish/project/dimantine-dashboard/index.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/scss/print.scss",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/addUser/addUser.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/addBrand/addBrand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/shared/sidebar.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/orders/orders.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/users.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/app.routes.js",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/sales/sales.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/category/addCategory/addCategory.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/brand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/css/print.css",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/console.sublime-snippet",
+				"/C/Users/Manish/project/sapC4C/demo1/index.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mappedCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mapped.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/findstudentcontroller.js",
+				"/C/Users/Manish/project/rtmaspa/partials/findstudentssolr.html",
+				"/C/Users/Manish/project/rtmaspa/js/services/DriveService.js",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/FindDrivesController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/finddrives.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/ImportController.js",
+				"/C/Users/Manish/project/rtmaspa/js/services/app.interceptor.js",
+				"/C/Users/Manish/project/rtmaspa/js/app.js",
+				"/C/Users/Manish/project/rtmaspa/js/router.js",
+				"/C/Users/Manish/project/rtmaspa/partials/createdrive.html",
+				"/C/Users/Manish/project/rtmaspa/js/theme.js",
+				"/C/Users/Manish/project/rtmaspa/partials/extraactivities.html",
+				"/C/Users/Manish/project/rtmaspa/css/style.css",
+				"/C/Users/Manish/project/rtmaspa/partials/acadamicdetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/contactdetails.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/AddQuestionController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/ImportQuestions.html",
+				"/C/Users/Manish/project/rtmaspa/index.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/CreateDriveController.js"
 			],
 			"find":
 			{
@@ -489,6 +1549,7 @@
 				"height": 158.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -496,17 +1557,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"assets",
+					"obj",
+					"return",
+					"$",
+					"typechange",
+					"$httpProvider",
+					"\"",
+					"||",
+					"localEnvironment",
+					"span",
 					"div",
+					"span",
+					"managedSystem",
+					"[]",
+					"outerIndex",
+					"vm",
+					"saveLocal",
+					"showMessageBox",
+					"saveLocal",
+					"message",
+					"showMessageBox",
+					"\"name\"",
+					"mc",
+					"main",
+					"Detail",
+					"1",
+					"#909",
+					"909",
+					"4",
+					"header",
+					"$locationProvider",
+					"/",
+					"src=\"",
+					"app/",
+					"[index]",
+					"</button>",
+					"<button",
+					"button",
+					"z-index=",
+					"=",
+					"span",
+					"modCo",
+					"a",
+					"button",
+					"input[type=\"text\"]",
+					"span",
+					"12",
+					"data-ng",
+					"modCo",
+					"6",
+					"modwell",
+					"<input",
+					"disabled",
+					"managedSystems.configs",
+					"connector.config",
+					"config",
+					"button",
+					"cs",
+					"initial",
+					"vm.",
+					"self.",
+					"vm.",
+					"rmActiveBtnFn",
+					"rmacti",
+					"$('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');\n            $(event.currentTarget).addClass(\"activeTreeBtn\");\n",
+					"configName",
+					"<span class=\"input-group-addon",
+					"name=\"entity\" id=\"inputEntity\"",
+					"$(event.currentTarget).addClass(\"activeTreeBtn\");\n            $('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');",
+					"event",
+					"vm",
+					"6",
+					"z-index",
+					"11",
+					" ",
+					"id=\"input\"",
+					"id=\"basic-addon1\"",
+					"btn-sm",
+					"self.config[name]",
+					"[control]",
+					"[$index]",
+					"$parent.$index",
+					"[$parent.$index]",
+					"0",
+					"self.group[0].data[0].ctrl",
+					"obj",
+					"text",
+					"obj[self.currIndex]",
+					"self.group[self.currGrpIndex]",
+					"[index]",
 					"index",
-					"public",
-					"	\n",
-					"topnav",
-					"topnav\\",
-					"d",
+					"cc.ctrl",
+					"obj.supportedSubTypes",
+					"['supportedSubTypes']",
+					"\"",
+					"['containedEntities']",
+					"\"",
+					"['supportedEntities']",
+					"control.type",
+					".",
+					"cs.controls",
+					"cs.",
+					"12",
+					"vm",
+					"role=\"presentation\"",
+					"<a></a>",
+					"href=\"#\"",
+					" ",
+					"\"false\"",
+					"\"true\"",
+					"con",
+					"div",
+					"class=\"btn",
 					"btn",
-					"alt",
-					"constant"
+					"div",
+					"obj",
+					"vm.connector.schema[vm.currEntity]",
+					"containedEntities",
+					"downloadSequence",
+					"[vm.currEntity]",
+					".downloadSequence",
+					"vm.connector[vm.currEntity].downloadSequence",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"vm.con.subTypeInfo[vm.currEntity].subType[vm.currSubType]",
+					"obj.subType[vm.currSubType]",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"Password",
+					"password",
+					"Password"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -514,6 +1692,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"self.",
+					"vm.",
+					"false"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -524,42 +1705,107 @@
 			"folders":
 			[
 				{
-					"path": "D:\\projects\\Repo_cyro_cell"
+					"path": "C:\\Users\\Manish\\project\\repo-json-creation"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/projects/Repo_cyro_cell/index.html",
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5704,
+								"buffer_size": 11677,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5615,
-										5615
+										4582,
+										4582
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4607,
+												4608
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4572,
+												4573
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -570,85 +1816,115 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_round_content"
 									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 483.0,
+								"translation.y": 2191.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/projects/Repo_cyro_cell/app/indexCtrl.js",
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 192,
+								"buffer_size": 4604,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										192,
-										192
+										3133,
+										3136
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3136,
+												3137
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3132,
+												3133
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -659,52 +1935,18 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_round_content"
 									],
-									"open_with_edit": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1034.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -712,274 +1954,11 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/D/projects/Repo_cyro_cell/app/app.route.js",
-							"semi_transient": false,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 1,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1,
-										1
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/projects/Repo_cyro_cell/app/app.module.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 176,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										80,
-										80
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 773,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										106,
-										106
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/projects/Repo_cyro_cell/app/home/home.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
+								"buffer_size": 3982,
 								"regions":
 								{
 								},
@@ -992,14 +1971,79 @@
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3977,
+												3980
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1,
+												4
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1010,84 +2054,134 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_round_content"
 									],
-									"open_with_edit": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
-							"file": "/D/projects/Repo_cyro_cell/app/home/homeCtrl.js",
+							"buffer": 3,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/services/connector.svc.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 184,
+								"buffer_size": 5698,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										153,
-										153
+										4517,
+										4517
+									],
+									[
+										4520,
+										4520
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4517,
+												4518
+											],
+											"2":
+											[
+												4579,
+												4580
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											],
+											"2":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4513,
+												4514
+											],
+											"2":
+											[
+												4519,
+												4520
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1098,55 +2192,21 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_round_content"
 									],
-									"open_with_edit": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2200.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1154,7 +2214,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -1185,18 +2245,18 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 53.0
+				"height": 55.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,563,25,25,681",
+			"position": "0,2,3,-1,-1,-1,-1,590,52,52,708",
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1205,6 +2265,338 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"hea",
+						"app\\shared\\header.html"
+					],
+					[
+						"head",
+						"app\\shared\\header.html"
+					],
+					[
+						"he",
+						"app\\shared\\headerCtrl.js"
+					],
+					[
+						"hde",
+						"app\\shared\\header.html"
+					],
+					[
+						"ind",
+						"assets\\css\\index.css"
+					],
+					[
+						"inde",
+						"assets\\css\\index.css"
+					],
+					[
+						"boo",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"in",
+						"assets\\css\\index.css"
+					],
+					[
+						"con",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"boots",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"boot",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"config",
+						"app\\components\\treeMapping\\configSchema\\configSchemaCtrl.js"
+					],
+					[
+						"tre",
+						"app\\components\\treeMapping\\treeMapCtrl.js"
+					],
+					[
+						"attr",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"sub",
+						"app\\components\\treeMapping\\partials\\subType\\subType.html"
+					],
+					[
+						"attri",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"mod",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"configsc",
+						"app\\components\\treeMapping\\configSchema\\configSchema.html"
+					],
+					[
+						"confi",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"configct",
+						"app\\components\\treeMapping\\partials\\config\\configCtrl.js"
+					],
+					[
+						"took",
+						"app\\components\\treeMapping\\partials\\configSchema\\toolkit.html"
+					],
+					[
+						"ha",
+						"app\\shared\\header.html"
+					],
+					[
+						"css",
+						"css.txt"
+					],
+					[
+						"index",
+						"assets\\css\\index.css"
+					],
+					[
+						"mapping",
+						"app\\components\\mapping\\mapping.html"
+					],
+					[
+						"sal",
+						"app\\component\\sales\\sales.html"
+					],
+					[
+						"side",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"sidd",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"importcon",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"crea",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"extr",
+						"partials\\extraactivities.html"
+					],
+					[
+						"sty",
+						"css\\style.css"
+					],
+					[
+						"acad",
+						"partials\\acadamicdetails.html"
+					],
+					[
+						"conta",
+						"partials\\contactdetails.html"
+					],
+					[
+						"question",
+						"js\\controllers\\AddQuestionController.js"
+					],
+					[
+						"find",
+						"js\\controllers\\findstudentcontroller.js"
+					],
+					[
+						"findso",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"impo",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"import",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"create",
+						"partials\\createdrive.html"
+					],
+					[
+						"impor",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"impot",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"drivemo",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"creat",
+						"partials\\createdrive.html"
+					],
+					[
+						"login",
+						"partials\\login.html"
+					],
+					[
+						"createcont",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"regist",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"cre",
+						"partials\\createdrive.html"
+					],
+					[
+						"styl",
+						"css\\style.css"
+					],
+					[
+						"regi",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"person",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"styel",
+						"css\\style.css"
+					],
+					[
+						"add",
+						"partials\\addquestion.html"
+					],
+					[
+						"drivemon",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"inpor",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"l",
+						"partials\\login.html"
+					],
+					[
+						"sy",
+						"css\\style.css"
+					],
+					[
+						"drive",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"finds",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"imp",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"candi",
+						"partials\\candidatelogin.html"
+					],
+					[
+						"rout",
+						"js\\router.js"
+					],
+					[
+						"pe",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"finssol",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"fiin",
+						"partials\\finddrives.html"
+					],
+					[
+						"cer",
+						"partials\\createdrive.html"
+					],
+					[
+						"foote",
+						"app\\shared\\footer.html"
+					],
+					[
+						"gene",
+						"app\\component\\setting\\general\\generalSetting.html"
+					],
+					[
+						"brand",
+						"app\\component\\brand\\brand.html"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"sid",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"cate",
+						"app\\component\\category\\category.html"
+					],
+					[
+						"pro",
+						"app\\component\\products\\products.html"
+					],
+					[
+						"enr",
+						"app\\components\\planAndPricing\\enrollmentProcess.html"
+					],
+					[
+						"font",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"fonte",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"abou",
+						"app\\components\\Aboutus\\aboutus.html"
+					],
+					[
+						"cord",
+						"app\\components\\services\\cordBlood.html"
+					],
+					[
+						"fon",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"indexcss",
+						"assets\\css\\index.css"
+					],
+					[
+						"indes",
+						"app\\indexCtrl.js"
+					],
+					[
+						"index.css",
+						"assets\\css\\index.css"
+					],
+					[
+						"index.cs",
+						"assets\\css\\index.css"
+					]
 				],
 				"width": 0.0
 			},
@@ -1234,12 +2626,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 263.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 7,
+			"window_id": 35,
 			"workspace_name": ""
 		}
 	],

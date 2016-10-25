@@ -4,6 +4,7 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
+	"color-theme": "Material-Theme-Darker.sublime-theme",
 	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
@@ -17,6 +18,7 @@
 	"ignored_packages":
 	[
 		"ESLint",
+		"JSLint",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -44,6 +46,6 @@
 	"material_theme_tabs_separator": false,
 	"material_theme_tree_headings": false,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_wrap": true
 }

@@ -1,6 +1,24 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Manish/project/repo-json-creation",
+		"/C/Users/Manish/project/ignite_answer_site",
+		"/C/Users/Manish/project/sapc4c",
+		"/C/Users/Manish/project/repo_cyro_cell_heroku_3",
+		"/C/Users/Manish/project/repo_cyro_cell",
+		"/C/Users/Manish/Desktop/demoThinkster",
+		"/C/Users/Manish/project/dimantine-dashboard",
+		"/C/Users/Manish/project/dribble",
+		"/C/Users/Manish/project/sapC4C",
+		"/C/Users/Manish/project/rtmaspa",
+		"/C/Users/Manish/project/sapC4C/demo/types",
+		"/C/Users/Manish/project/repo_cyro_cell_heroku",
+		"/C/Users/Manish/project/CliffyMk.github.io",
+		"/C/Users/Manish/project/repo_india_mgmt",
+		"/C/Users/Manish/project/dimantine-frontend",
+		"/C/Users/Manish/project/repo-cyro-cell",
+		"/C/Users/Manish/project/repo_cyro_cell/app",
+		"/C/Users/Manish/project/nodeDemo",
 		"/D/projects/Repo_cyro_cell",
 		"/D/projects/startbootstrap-landing-page-1.0.5",
 		"/D/projects/startbootstrap-creative-1.0.2",
@@ -8,12 +26,12 @@
 		"/D/projects/Repo_cyro-cell",
 		"/D/projects/dimantine-frontend"
 	],
-	"last_version": 3114,
-	"last_window_id": 7,
+	"last_version": 3126,
+	"last_window_id": 35,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 479.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -21,12 +39,212 @@
 				"selected_items":
 				[
 					[
-						"$stat",
-						"$stateProvider	(?)"
+						"getMov",
+						"getMovieInfo\t(app.service.js)"
+					],
+					[
+						"Ignit",
+						"IgniteSolutionApp\t(app.module.js)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"Json",
+						"JsonCreationApp\t(configSchemaCtrl.js)"
+					],
+					[
+						"m",
+						"modifyExisting/"
+					],
+					[
+						"function",
+						"function\tfunction"
+					],
+					[
+						"jquery",
+						"jquery-1.12.4.min.js\t(jquerycdn.xml)"
 					],
 					[
 						"html",
-						"html5	Simple HTML5 Boilerplate"
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"data",
+						"dataTransfer"
+					],
+					[
+						"src",
+						"srcDragElement"
+					],
+					[
+						"righ",
+						"rightFileInput"
+					],
+					[
+						"left",
+						"leftCsv\t(mapping.html)"
+					],
+					[
+						"rightC",
+						"rightCsv\t(mapping.html)"
+					],
+					[
+						"ri",
+						"rightCsv\t(mappingCtrl.js)"
+					],
+					[
+						"unde",
+						"undefined\t(?)"
+					],
+					[
+						"each",
+						"each\t$.each()"
+					],
+					[
+						"service",
+						"service\tAngularJS"
+					],
+					[
+						"templ",
+						"templateUrl"
+					],
+					[
+						"module",
+						"verbose_module\tAngularJS"
+					],
+					[
+						"slideIN",
+						"slideInUp\t(style.css)"
+					],
+					[
+						"sli",
+						"slideUp\t.slideUp()"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"Mapp",
+						"MappingApp\t(app.module.js)"
+					],
+					[
+						"$rou",
+						"$routeProvider\tAngularJS"
+					],
+					[
+						"ng",
+						"ngfactory\tFactory"
+					],
+					[
+						"angul",
+						"angular-mocks\t(package.json)"
+					],
+					[
+						"bs3table",
+						"bs3-table:striped\tbs3-table-striped"
+					],
+					[
+						"dire",
+						"verbose_directive\tAngularJS"
+					],
+					[
+						"temp",
+						"templateUrl"
+					],
+					[
+						"route",
+						"$route\tAngularJS"
+					],
+					[
+						"ngmodu",
+						"ng-module\tng-module"
+					],
+					[
+						"side",
+						"sideBarSubMenuColor"
+					],
+					[
+						"list-grou",
+						"list-group-item"
+					],
+					[
+						"bs3te",
+						"bs3-input:text\tbs3-input-text"
+					],
+					[
+						"bs3f",
+						"bs3-form:horizontal\tbs3-form-horizontal"
+					],
+					[
+						"list-g",
+						"list-group-item\t(sidebar.html)"
+					],
+					[
+						"white",
+						"white-space\t(index.css)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"s",
+						"services/"
+					],
+					[
+						"c",
+						"components/"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"listgor",
+						"list-group-item"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"styl",
+						"style\tAttr"
+					],
+					[
+						"ngmod",
+						"ng-module\tng-module"
+					],
+					[
+						"offset",
+						"offset\t.offset()"
+					],
+					[
+						"off",
+						"offset\t.offset()"
+					],
+					[
+						"ea",
+						"each\t$.each()"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"scroll",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"window",
+						"windowTopHeight"
+					],
+					[
+						"$stat",
+						"$stateProvider\t(?)"
 					]
 				]
 			},
@@ -36,10 +254,50 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 230.0,
-				"last_filter": "Package Control: insa",
+				"height": 354.0,
+				"last_filter": "disa",
 				"selected_items":
 				[
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"insatl",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
 					[
 						"Package Control: insa",
 						"Package Control: Install Package"
@@ -57,20 +315,8 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
 					],
 					[
 						"",
@@ -78,18 +324,6 @@
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					]
 				],
@@ -113,40 +347,145 @@
 			},
 			"file_history":
 			[
-				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
-				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
-				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
-				"/D/projects/dimantine-frontend/index.html",
-				"/D/projects/dimantine-frontend/app/app.routes.js",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+				"/C/Users/Manish/project/ignite_answer_site/app/components/main/homeCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.service.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/searchResult/searchResult.html",
+				"/C/Users/Manish/project/ignite_answer_site/assets/css/index.css",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.module.js",
+				"/C/Users/Manish/project/ignite_answer_site/index.html",
+				"/C/Users/Manish/project/ignite_answer_site/app/indexCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.route.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.directive.js",
+				"/C/Users/Manish/project/ignite_answer_site/info.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/shared/header.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPrevious.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPreviousCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/connectorTypes.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStructCtrl.js",
+				"/C/Users/Manish/Desktop/OracleAppsConnector.json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMap.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/subType.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/bootstrap.mod.css",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/css.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/index.html",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/SubTypeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlike.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlikeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/app.routes.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.input.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modifyExisting.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNew.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNewCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/modExisting.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modExistingCtrl.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modExisting.svc.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-function.sublime-snippet",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Manish/project/sapc4c/assets/css/index.css",
+				"/C/Users/Manish/project/dimantine-dashboard/index.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/scss/print.scss",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/addUser/addUser.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/addBrand/addBrand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/shared/sidebar.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/orders/orders.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/users.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/app.routes.js",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/sales/sales.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/category/addCategory/addCategory.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/brand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/css/print.css",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/console.sublime-snippet",
+				"/C/Users/Manish/project/sapC4C/demo1/index.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mappedCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mapped.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/findstudentcontroller.js",
+				"/C/Users/Manish/project/rtmaspa/partials/findstudentssolr.html",
+				"/C/Users/Manish/project/rtmaspa/js/services/DriveService.js",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/FindDrivesController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/finddrives.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/ImportController.js",
+				"/C/Users/Manish/project/rtmaspa/js/services/app.interceptor.js",
+				"/C/Users/Manish/project/rtmaspa/js/app.js",
+				"/C/Users/Manish/project/rtmaspa/js/router.js",
+				"/C/Users/Manish/project/rtmaspa/partials/createdrive.html",
+				"/C/Users/Manish/project/rtmaspa/js/theme.js",
+				"/C/Users/Manish/project/rtmaspa/partials/extraactivities.html",
+				"/C/Users/Manish/project/rtmaspa/css/style.css",
+				"/C/Users/Manish/project/rtmaspa/partials/acadamicdetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/contactdetails.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/AddQuestionController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/ImportQuestions.html",
+				"/C/Users/Manish/project/rtmaspa/index.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/CreateDriveController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/addquestion.html",
+				"/C/Users/Manish/project/rtmaspa/partials/drivemonitor.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentRegistration.html",
+				"/C/Users/Manish/project/rtmaspa/partials/PersonalDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/login.html",
+				"/C/Users/Manish/project/rtmaspa/js/app.directive.js",
+				"/C/Users/Manish/project/rtmaspa/partials/technical.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidatelogin.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidateAptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/aptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/forgetpassword.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/main/mainCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/main/main.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/app.module.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/app.route.js",
+				"/C/Users/Manish/project/sapC4C/demo1/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/components/mapping/mapping.html",
+				"/C/Users/Manish/project/sapC4C/demo1/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/components/main/mainCtrl.js",
+				"/C/Users/Manish/project/sapC4C/package.json",
+				"/C/Users/Manish/project/sapC4C/demo1/components/main/main.html",
+				"/C/Users/Manish/project/sapC4C/demo1/assets/app.route.js",
+				"/C/Users/Manish/project/sapC4C/demo1/assets/app.module.js",
+				"/C/Users/Manish/project/CliffyMk.github.io/shared/app.module.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings"
 			],
 			"find":
 			{
-				"height": 70.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
 				"height": 158.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -154,10 +493,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"d",
+					"mc",
+					"main",
+					"Detail",
+					"1",
+					"#909",
+					"909",
+					"4",
+					"header",
+					"$locationProvider",
+					"/",
+					"src=\"",
+					"app/",
+					"[index]",
+					"</button>",
+					"<button",
+					"button",
+					"z-index=",
+					"=",
+					"span",
+					"modCo",
+					"a",
+					"button",
+					"input[type=\"text\"]",
+					"span",
+					"12",
+					"data-ng",
+					"modCo",
+					"6",
+					"modwell",
+					"<input",
+					"disabled",
+					"managedSystems.configs",
+					"connector.config",
+					"config",
+					"button",
+					"cs",
+					"initial",
+					"vm.",
+					"self.",
+					"vm.",
+					"rmActiveBtnFn",
+					"rmacti",
+					"$('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');\n            $(event.currentTarget).addClass(\"activeTreeBtn\");\n",
+					"configName",
+					"<span class=\"input-group-addon",
+					"name=\"entity\" id=\"inputEntity\"",
+					"$(event.currentTarget).addClass(\"activeTreeBtn\");\n            $('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');",
+					"event",
+					"vm",
+					"6",
+					"z-index",
+					"11",
+					" ",
+					"id=\"input\"",
+					"id=\"basic-addon1\"",
+					"btn-sm",
+					"self.config[name]",
+					"[control]",
+					"[$index]",
+					"$parent.$index",
+					"[$parent.$index]",
+					"0",
+					"self.group[0].data[0].ctrl",
+					"obj",
+					"text",
+					"obj[self.currIndex]",
+					"self.group[self.currGrpIndex]",
+					"[index]",
+					"index",
+					"cc.ctrl",
+					"obj.supportedSubTypes",
+					"['supportedSubTypes']",
+					"\"",
+					"['containedEntities']",
+					"\"",
+					"['supportedEntities']",
+					"control.type",
+					".",
+					"cs.controls",
+					"cs.",
+					"12",
+					"vm",
+					"role=\"presentation\"",
+					"<a></a>",
+					"href=\"#\"",
+					" ",
+					"\"false\"",
+					"\"true\"",
+					"con",
+					"div",
+					"class=\"btn",
 					"btn",
-					"alt",
-					"constant"
+					"div",
+					"obj",
+					"vm.connector.schema[vm.currEntity]",
+					"containedEntities",
+					"downloadSequence",
+					"[vm.currEntity]",
+					".downloadSequence",
+					"vm.connector[vm.currEntity].downloadSequence",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"vm.con.subTypeInfo[vm.currEntity].subType[vm.currSubType]",
+					"obj.subType[vm.currSubType]",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"Password",
+					"password",
+					"Password",
+					"password",
+					"<div class=\"col-md-6\">",
+					"6",
+					"3",
+					"user",
+					"addUser",
+					"/*",
+					"Category",
+					"0",
+					"animatedImage",
+					"target",
+					"'",
+					"Text",
+					"iElm",
+					"fileinput",
+					"fileInput",
+					"leftColumn",
+					"vm.getLeftColumn",
+					"getLeftColumn",
+					"3",
+					"timesheetUrl"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -165,6 +628,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"self.",
+					"vm.",
+					"false"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -174,7 +640,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -183,7 +649,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 53.0
+				"height": 55.0
 			},
 			"output.find_results":
 			{
@@ -192,7 +658,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 114.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -201,6 +667,330 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ind",
+						"assets\\css\\index.css"
+					],
+					[
+						"in",
+						"assets\\css\\index.css"
+					],
+					[
+						"head",
+						"app\\shared\\header.html"
+					],
+					[
+						"con",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"boots",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"boot",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"config",
+						"app\\components\\treeMapping\\configSchema\\configSchemaCtrl.js"
+					],
+					[
+						"boo",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"inde",
+						"assets\\css\\index.css"
+					],
+					[
+						"tre",
+						"app\\components\\treeMapping\\treeMapCtrl.js"
+					],
+					[
+						"attr",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"sub",
+						"app\\components\\treeMapping\\partials\\subType\\subType.html"
+					],
+					[
+						"attri",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"mod",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"configsc",
+						"app\\components\\treeMapping\\configSchema\\configSchema.html"
+					],
+					[
+						"confi",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"configct",
+						"app\\components\\treeMapping\\partials\\config\\configCtrl.js"
+					],
+					[
+						"took",
+						"app\\components\\treeMapping\\partials\\configSchema\\toolkit.html"
+					],
+					[
+						"ha",
+						"app\\shared\\header.html"
+					],
+					[
+						"css",
+						"css.txt"
+					],
+					[
+						"index",
+						"assets\\css\\index.css"
+					],
+					[
+						"mapping",
+						"app\\components\\mapping\\mapping.html"
+					],
+					[
+						"sal",
+						"app\\component\\sales\\sales.html"
+					],
+					[
+						"side",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"sidd",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"importcon",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"crea",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"extr",
+						"partials\\extraactivities.html"
+					],
+					[
+						"sty",
+						"css\\style.css"
+					],
+					[
+						"acad",
+						"partials\\acadamicdetails.html"
+					],
+					[
+						"conta",
+						"partials\\contactdetails.html"
+					],
+					[
+						"question",
+						"js\\controllers\\AddQuestionController.js"
+					],
+					[
+						"find",
+						"js\\controllers\\findstudentcontroller.js"
+					],
+					[
+						"findso",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"impo",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"import",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"create",
+						"partials\\createdrive.html"
+					],
+					[
+						"impor",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"impot",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"drivemo",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"creat",
+						"partials\\createdrive.html"
+					],
+					[
+						"login",
+						"partials\\login.html"
+					],
+					[
+						"createcont",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"regist",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"cre",
+						"partials\\createdrive.html"
+					],
+					[
+						"styl",
+						"css\\style.css"
+					],
+					[
+						"regi",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"person",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"styel",
+						"css\\style.css"
+					],
+					[
+						"add",
+						"partials\\addquestion.html"
+					],
+					[
+						"drivemon",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"inpor",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"l",
+						"partials\\login.html"
+					],
+					[
+						"sy",
+						"css\\style.css"
+					],
+					[
+						"drive",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"finds",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"imp",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"candi",
+						"partials\\candidatelogin.html"
+					],
+					[
+						"rout",
+						"js\\router.js"
+					],
+					[
+						"pe",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"finssol",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"fiin",
+						"partials\\finddrives.html"
+					],
+					[
+						"cer",
+						"partials\\createdrive.html"
+					],
+					[
+						"foote",
+						"app\\shared\\footer.html"
+					],
+					[
+						"gene",
+						"app\\component\\setting\\general\\generalSetting.html"
+					],
+					[
+						"brand",
+						"app\\component\\brand\\brand.html"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"sid",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"cate",
+						"app\\component\\category\\category.html"
+					],
+					[
+						"pro",
+						"app\\component\\products\\products.html"
+					],
+					[
+						"enr",
+						"app\\components\\planAndPricing\\enrollmentProcess.html"
+					],
+					[
+						"font",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"fonte",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"abou",
+						"app\\components\\Aboutus\\aboutus.html"
+					],
+					[
+						"cord",
+						"app\\components\\services\\cordBlood.html"
+					],
+					[
+						"fon",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"indexcss",
+						"assets\\css\\index.css"
+					],
+					[
+						"indes",
+						"app\\indexCtrl.js"
+					],
+					[
+						"hea",
+						"app\\shared\\header\\header.html"
+					],
+					[
+						"index.css",
+						"assets\\css\\index.css"
+					],
+					[
+						"index.cs",
+						"assets\\css\\index.css"
+					]
 				],
 				"width": 0.0
 			},
@@ -226,7 +1016,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 238.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -242,24 +1032,208 @@
 				"selected_items":
 				[
 					[
-						"ngmod",
-						"ng-module	ng-module"
+						"list-",
+						"list-group-item-hover\t(index.css)"
+					],
+					[
+						"wihte",
+						"white-space"
+					],
+					[
+						"disp",
+						"displayMsg"
+					],
+					[
+						"getMov",
+						"getMovieInfo\t(app.service.js)"
+					],
+					[
+						"Ignit",
+						"IgniteSolutionApp\t(app.module.js)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"Json",
+						"JsonCreationApp\t(configSchemaCtrl.js)"
+					],
+					[
+						"m",
+						"modifyExisting/"
+					],
+					[
+						"function",
+						"function\tfunction"
+					],
+					[
+						"jquery",
+						"jquery-1.12.4.min.js\t(jquerycdn.xml)"
+					],
+					[
+						"html",
+						"html5\tSimple HTML5 Boilerplate"
+					],
+					[
+						"data",
+						"dataTransfer"
+					],
+					[
+						"src",
+						"srcDragElement"
+					],
+					[
+						"righ",
+						"rightFileInput"
+					],
+					[
+						"left",
+						"leftCsv\t(mapping.html)"
+					],
+					[
+						"rightC",
+						"rightCsv\t(mapping.html)"
+					],
+					[
+						"ri",
+						"rightCsv\t(mappingCtrl.js)"
+					],
+					[
+						"unde",
+						"undefined\t(?)"
+					],
+					[
+						"each",
+						"each\t$.each()"
+					],
+					[
+						"service",
+						"service\tAngularJS"
+					],
+					[
+						"templ",
+						"templateUrl"
 					],
 					[
 						"module",
-						"module	QUnit module"
+						"verbose_module\tAngularJS"
+					],
+					[
+						"slideIN",
+						"slideInUp\t(style.css)"
+					],
+					[
+						"sli",
+						"slideUp\t.slideUp()"
+					],
+					[
+						"magin",
+						"margin-top"
+					],
+					[
+						"Mapp",
+						"MappingApp\t(app.module.js)"
+					],
+					[
+						"$rou",
+						"$routeProvider\tAngularJS"
+					],
+					[
+						"ng",
+						"ngfactory\tFactory"
+					],
+					[
+						"angul",
+						"angular-mocks\t(package.json)"
+					],
+					[
+						"bs3table",
+						"bs3-table:striped\tbs3-table-striped"
+					],
+					[
+						"dire",
+						"verbose_directive\tAngularJS"
+					],
+					[
+						"temp",
+						"templateUrl"
+					],
+					[
+						"route",
+						"$route\tAngularJS"
+					],
+					[
+						"ngmodu",
+						"ng-module\tng-module"
+					],
+					[
+						"side",
+						"sideBarSubMenuColor"
+					],
+					[
+						"list-grou",
+						"list-group-item"
+					],
+					[
+						"bs3te",
+						"bs3-input:text\tbs3-input-text"
+					],
+					[
+						"bs3f",
+						"bs3-form:horizontal\tbs3-form-horizontal"
+					],
+					[
+						"list-g",
+						"list-group-item\t(sidebar.html)"
+					],
+					[
+						"white",
+						"white-space\t(index.css)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"s",
+						"services/"
+					],
+					[
+						"c",
+						"components/"
+					],
+					[
+						"list",
+						"list-group-item"
+					],
+					[
+						"listgor",
+						"list-group-item"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"styl",
+						"style\tAttr"
+					],
+					[
+						"ngmod",
+						"ng-module\tng-module"
 					],
 					[
 						"offset",
-						"offset	.offset()"
+						"offset\t.offset()"
 					],
 					[
 						"off",
-						"offset	.offset()"
+						"offset\t.offset()"
 					],
 					[
 						"ea",
-						"each	$.each()"
+						"each\t$.each()"
 					],
 					[
 						"wind",
@@ -267,7 +1241,7 @@
 					],
 					[
 						"scroll",
-						"scrollTop	.scrollTop()"
+						"scrollTop\t.scrollTop()"
 					],
 					[
 						"window",
@@ -275,61 +1249,132 @@
 					],
 					[
 						"$stat",
-						"$stateProvider	(?)"
-					],
-					[
-						"html",
-						"html5	Simple HTML5 Boilerplate"
+						"$stateProvider\t(?)"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/projects/bootstrap_starter_template/index.html",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
 					"settings":
 					{
-						"buffer_size": 5252,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/projects/dimantine-frontend/app/app.module.js",
-					"settings":
-					{
-						"buffer_size": 285,
+						"buffer_size": 3594,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-module.sublime-snippet",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
 					"settings":
 					{
-						"buffer_size": 475,
+						"buffer_size": 2708,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/index.html",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/controlGeneration.html",
 					"settings":
 					{
-						"buffer_size": 5375,
-						"line_ending": "Unix"
+						"buffer_size": 2673,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/assets/css/index.css",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/groupControlGeneration.html",
 					"settings":
 					{
-						"buffer_size": 4029,
-						"line_ending": "Unix"
+						"buffer_size": 3133,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/managedSystemTree.html",
 					"settings":
 					{
-						"buffer_size": 828,
+						"buffer_size": 950,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
+					"settings":
+					{
+						"buffer_size": 6910,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
+					"settings":
+					{
+						"buffer_size": 11616,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"connector\": {\n        \"managedSystem\": {\n            \"configs\": [{\n                \"name\": \"asdf\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"asdfasf\": [{\n                    \"asdfa\": \"asdf\"\n                }, {\n                    \"asdfa\": \"asdf\"\n                }]\n            }, {\n                \"name\": \"asdfasdf\",\n                \"subType\": \"organisation\",\n                \"selfResolvedMemberships\": true,\n                \"asdfasf\": [{\n                    \"asdfa\": \"asdfasdf\"\n                }, { \"asdfa\": \"asdfasdf\" }]\n            }]\n        }\n    }\n}\n",
+					"file": "/C/Users/Manish/Downloads/asdfd.json",
+					"file_size": 651,
+					"file_write_time": 131210902704136377,
+					"settings":
+					{
+						"buffer_size": 628,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"connector\": {\n        \"managedSystem\": {\n            \"configs\": [{\n                \"name\": \"asdf\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"asdfasf\": [{ \"asdfa\": \"asdf\" }, { \"asdfa\": \"asdf\" }]\n            }, {\n                \"name\": \"asdfasdf\",\n                \"subType\": \"organisation\",\n                \"selfResolvedMemberships\": true,\n                \"asdfasf\": [{\n                    \"asdfa\": \"asdfasdfdd\",\n                    \"asdfad\": \"asdfasdf\"\n                }, { \"asdfa\": \"asdfasdf\" }]\n            }]\n        }\n    }\n}\n",
+					"file": "/C/Users/Manish/Downloads/asdfdd.json",
+					"file_size": 620,
+					"file_write_time": 131210903339465443,
+					"settings":
+					{
+						"buffer_size": 600,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"connector\": {\n        \"managedSystem\": {\n            \"configs\": [{\n                \"name\": \"asdf\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"asdfasf\": [\n                    { \"asdfa\": \"asdf\" },\n                    { \"asdfa\": \"asdf\" }\n                ]\n            }]\n        }\n    }\n}\n",
+					"file": "/C/Users/Manish/Downloads/asdf (1).json",
+					"file_size": 370,
+					"file_write_time": 131210900537212972,
+					"settings":
+					{
+						"buffer_size": 355,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"connector\": {\n        \"managedSystem\": {\n            \"configs\": [{\n                \"name\": \"asdfasd\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"isAuthoritative\": true,\n                \"asdfasdf\": {\n                    \"0\": { \"asdfasdf\": \"asdfa\" },\n                    \"1\": { \"asdfasdf\": \"dafasf\" }\n                }\n            }, {\n                \"name\": \"asdf\",\n                \"subType\": \"organisation\",\n                \"selfResolvedMemberships\": true,\n                \"isAuthoritative\": true,\n                \"asdfasdf\": {\n                    \"0\": { \"asdfasdf\": \"asdfasdf\" },\n                    \"1\": { \"asdfasdf\": \"asdfasdf\" }\n                }\n            }]\n        }\n    }\n}\n",
+					"file": "/C/Users/Manish/Downloads/asdfasdf (4).json",
+					"file_size": 779,
+					"file_write_time": 131210897889243281,
+					"settings":
+					{
+						"buffer_size": 754,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"connector\": {\n        \"managedSystem\": {\n            \"configs\": [{\n                \"name\": \"asdf\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"asdfas\": {\n                    \"0\": { \"asdfasf\": \"asdfas\" },\n                    \"1\": { \"asdfasf\": \"fasdfasdf\" }\n                }\n            }, {\n                \"name\": \"afsdf\",\n                \"subType\": \"employee\",\n                \"selfResolvedMemberships\": true,\n                \"asdfas\": {\n                    \"0\": { \"asdfasf\": \"asdf\" },\n                    \"1\": { \"asdfasf\": \"asdfasdf\" }\n                }\n            }]\n        }\n    }\n}\n",
+					"file": "/C/Users/Manish/Downloads/adfasdf.json",
+					"file_size": 681,
+					"file_write_time": 131210894671848828,
+					"settings":
+					{
+						"buffer_size": 658,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -342,9 +1387,45 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "",
+				"last_filter": "disa",
 				"selected_items":
 				[
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"insatl",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
 					[
 						"Package Control: ins",
 						"Package Control: Install Package"
@@ -366,20 +1447,8 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove pa",
 						"Package Control: Remove Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
 					],
 					[
 						"",
@@ -387,18 +1456,6 @@
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"instal",
 						"Package Control: Install Package"
 					]
 				],
@@ -422,43 +1479,143 @@
 			},
 			"expanded_folders":
 			[
-				"/D/projects/Repo_cyro_cell",
-				"/D/projects/Repo_cyro_cell/assets/js"
+				"/C/Users/Manish/project/repo-json-creation",
+				"/C/Users/Manish/project/repo-json-creation/app",
+				"/C/Users/Manish/project/repo-json-creation/app/components",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema"
 			],
 			"file_history":
 			[
-				"/D/projects/startbootstrap-creative-1.0.2/index.html",
-				"/D/projects/Repo_cyro_cell/app/app.module.js",
-				"/D/projects/bootstrap_starter_template/app/app.module.js",
-				"/D/projects/Repo_cyro_cell/assets/css/index.css",
-				"/D/projects/dimantine-frontend/app/app.routes.js",
-				"/D/projects/Repo_cyro_cell/app/app.route.js",
-				"/D/projects/dimantine-frontend/app/app.module.js",
-				"/D/projects/Repo_cyro_cell/index.html",
-				"/D/projects/Repo_cyro_cell/shared/js/index.js",
-				"/D/projects/startbootstrap-landing-page-1.0.5/css/index.css",
-				"/D/projects/startbootstrap-landing-page-1.0.5/index.html",
-				"/C/Users/kumar_m.XOR-IND/Downloads/web-app_2_5.xsd",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/function.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/CaseConversion.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/Case Conversion/Default (Windows).sublime-keymap",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/README.md",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-state.sublime-snippet",
-				"/D/projects/dimantine-frontend/index.html",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
-				"/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-config.sublime-snippet"
+				"/C/Users/Manish/Downloads/adf.json",
+				"/C/Users/Manish/Downloads/asdf.json",
+				"/C/Users/Manish/Downloads/adf (1).json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/groupControl.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/modalCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/sideMessage.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schemaToolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/schema/schemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modal/messageBox.html",
+				"/C/Users/Manish/Downloads/asdfasdf.json",
+				"/C/Users/Manish/Downloads/asdfasdf (1).json",
+				"/C/Users/Manish/Downloads/asdfasdf (3).json",
+				"/C/Users/Manish/Downloads/asd.json",
+				"/C/Users/Manish/Downloads/asdfsadf.json",
+				"/C/Users/Manish/Downloads/fsdfsd.json",
+				"/C/Users/Manish/project/repo-json-creation/app/services/app.localstorageSvc.js",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/bootstrap.mod.css",
+				"/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/oracleappconnector_2.json",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/main/homeCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.service.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/components/searchResult/searchResult.html",
+				"/C/Users/Manish/project/ignite_answer_site/assets/css/index.css",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.module.js",
+				"/C/Users/Manish/project/ignite_answer_site/index.html",
+				"/C/Users/Manish/project/ignite_answer_site/app/indexCtrl.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.route.js",
+				"/C/Users/Manish/project/ignite_answer_site/app/app.directive.js",
+				"/C/Users/Manish/project/ignite_answer_site/info.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/shared/header.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPrevious.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/loadPrevious/loadPreviousCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/connectorTypes.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStructCtrl.js",
+				"/C/Users/Manish/Desktop/OracleAppsConnector.json",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMap.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/subType.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/css.txt",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/index.html",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/subType/SubTypeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeStruct/treeStruct.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/configCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/attribute/attribute.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema/toolkit.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlike.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createAlike/createAlikeCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/app.routes.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/entity/entity.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/type/type.html",
+				"/C/Users/Manish/project/repo-json-creation/app/directives/app.input.directive.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchemaCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/configSchema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modifyExisting.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/schema.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/partials/config.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNew.html",
+				"/C/Users/Manish/project/repo-json-creation/app/components/createNew/createNewCtrl.js",
+				"/C/Users/Manish/project/repo-json-creation/app/services/modExisting.svc.js",
+				"/C/Users/Manish/project/repo-json-creation/app/components/modifyExisting/modExistingCtrl.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-controller.sublime-snippet",
+				"/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/modExisting.svc.js",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-function.sublime-snippet",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Manish/project/sapc4c/assets/css/index.css",
+				"/C/Users/Manish/project/dimantine-dashboard/index.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/scss/print.scss",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/addUser/addUser.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/addBrand/addBrand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/shared/sidebar.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/orders/orders.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/users/users.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/app.routes.js",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/sales/sales.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/category/addCategory/addCategory.html",
+				"/C/Users/Manish/project/dimantine-dashboard/app/component/brand/brand.html",
+				"/C/Users/Manish/project/dimantine-dashboard/assets/css/print.css",
+				"/C/Users/Manish/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/console.sublime-snippet",
+				"/C/Users/Manish/project/sapC4C/demo1/index.html",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mappedCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapping/mappingCtrl.js",
+				"/C/Users/Manish/project/sapC4C/demo1/app/components/mapped/mapped.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/findstudentcontroller.js",
+				"/C/Users/Manish/project/rtmaspa/partials/findstudentssolr.html",
+				"/C/Users/Manish/project/rtmaspa/js/services/DriveService.js",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/FindDrivesController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/finddrives.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/ImportController.js",
+				"/C/Users/Manish/project/rtmaspa/js/services/app.interceptor.js",
+				"/C/Users/Manish/project/rtmaspa/js/app.js",
+				"/C/Users/Manish/project/rtmaspa/js/router.js",
+				"/C/Users/Manish/project/rtmaspa/partials/createdrive.html",
+				"/C/Users/Manish/project/rtmaspa/js/theme.js",
+				"/C/Users/Manish/project/rtmaspa/partials/extraactivities.html",
+				"/C/Users/Manish/project/rtmaspa/css/style.css",
+				"/C/Users/Manish/project/rtmaspa/partials/acadamicdetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/contactdetails.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/AddQuestionController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/ImportQuestions.html",
+				"/C/Users/Manish/project/rtmaspa/index.html",
+				"/C/Users/Manish/project/rtmaspa/js/controllers/CreateDriveController.js",
+				"/C/Users/Manish/project/rtmaspa/partials/addquestion.html",
+				"/C/Users/Manish/project/rtmaspa/partials/drivemonitor.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentRegistration.html",
+				"/C/Users/Manish/project/rtmaspa/partials/PersonalDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/login.html",
+				"/C/Users/Manish/project/rtmaspa/js/app.directive.js",
+				"/C/Users/Manish/project/rtmaspa/partials/technical.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidatelogin.html",
+				"/C/Users/Manish/project/rtmaspa/partials/StudentDetails.html",
+				"/C/Users/Manish/project/rtmaspa/partials/candidateAptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/aptitude.html",
+				"/C/Users/Manish/project/rtmaspa/partials/forgetpassword.html"
 			],
 			"find":
 			{
@@ -469,6 +1626,7 @@
 				"height": 158.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -476,17 +1634,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"assets",
+					"span",
 					"div",
+					"span",
+					"managedSystem",
+					"[]",
+					"outerIndex",
+					"vm",
+					"saveLocal",
+					"showMessageBox",
+					"saveLocal",
+					"message",
+					"showMessageBox",
+					"\"name\"",
+					"mc",
+					"main",
+					"Detail",
+					"1",
+					"#909",
+					"909",
+					"4",
+					"header",
+					"$locationProvider",
+					"/",
+					"src=\"",
+					"app/",
+					"[index]",
+					"</button>",
+					"<button",
+					"button",
+					"z-index=",
+					"=",
+					"span",
+					"modCo",
+					"a",
+					"button",
+					"input[type=\"text\"]",
+					"span",
+					"12",
+					"data-ng",
+					"modCo",
+					"6",
+					"modwell",
+					"<input",
+					"disabled",
+					"managedSystems.configs",
+					"connector.config",
+					"config",
+					"button",
+					"cs",
+					"initial",
+					"vm.",
+					"self.",
+					"vm.",
+					"rmActiveBtnFn",
+					"rmacti",
+					"$('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');\n            $(event.currentTarget).addClass(\"activeTreeBtn\");\n",
+					"configName",
+					"<span class=\"input-group-addon",
+					"name=\"entity\" id=\"inputEntity\"",
+					"$(event.currentTarget).addClass(\"activeTreeBtn\");\n            $('div.activeTreeBtn').removeClass('activeTreeBtn');\n            $('span.activeTreeBtn').removeClass('activeTreeBtn');",
+					"event",
+					"vm",
+					"6",
+					"z-index",
+					"11",
+					" ",
+					"id=\"input\"",
+					"id=\"basic-addon1\"",
+					"btn-sm",
+					"self.config[name]",
+					"[control]",
+					"[$index]",
+					"$parent.$index",
+					"[$parent.$index]",
+					"0",
+					"self.group[0].data[0].ctrl",
+					"obj",
+					"text",
+					"obj[self.currIndex]",
+					"self.group[self.currGrpIndex]",
+					"[index]",
 					"index",
-					"public",
-					"	\n",
-					"topnav",
-					"topnav\\",
-					"d",
+					"cc.ctrl",
+					"obj.supportedSubTypes",
+					"['supportedSubTypes']",
+					"\"",
+					"['containedEntities']",
+					"\"",
+					"['supportedEntities']",
+					"control.type",
+					".",
+					"cs.controls",
+					"cs.",
+					"12",
+					"vm",
+					"role=\"presentation\"",
+					"<a></a>",
+					"href=\"#\"",
+					" ",
+					"\"false\"",
+					"\"true\"",
+					"con",
+					"div",
+					"class=\"btn",
 					"btn",
-					"alt",
-					"constant"
+					"div",
+					"obj",
+					"vm.connector.schema[vm.currEntity]",
+					"containedEntities",
+					"downloadSequence",
+					"[vm.currEntity]",
+					".downloadSequence",
+					"vm.connector[vm.currEntity].downloadSequence",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"vm.con.subTypeInfo[vm.currEntity].subType[vm.currSubType]",
+					"obj.subType[vm.currSubType]",
+					"vm.con.subTypeInfo[vm.currEntity]",
+					"Password",
+					"password",
+					"Password",
+					"password",
+					"<div class=\"col-md-6\">",
+					"6",
+					"3",
+					"user",
+					"addUser",
+					"/*",
+					"Category"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -494,6 +1769,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"self.",
+					"vm.",
+					"false"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -504,183 +1782,733 @@
 			"folders":
 			[
 				{
-					"path": "D:\\projects\\Repo_cyro_cell"
+					"path": "C:\\Users\\Manish\\project\\repo-json-creation"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 8,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/projects/bootstrap_starter_template/index.html",
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/configCtrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5252,
+								"buffer_size": 3594,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										448,
-										448
+										761,
+										761
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2120,
+												2121
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												723,
+												724
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content"
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 396.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/config.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2708,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2106,
+										2106
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2114,
+												2115
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2061,
+												2062
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 541.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/D/projects/dimantine-frontend/app/app.module.js",
+							"buffer": 2,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/controlGeneration.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 285,
+								"buffer_size": 2673,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										285,
-										0
+										1411,
+										1379
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1410,
+												1411
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/square_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1379,
+												1380
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content"
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 365.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/groupControlGeneration.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										611,
+										611
+									],
+									[
+										990,
+										990
+									],
+									[
+										1138,
+										1138
+									],
+									[
+										1445,
+										1445
+									],
+									[
+										1685,
+										1685
+									],
+									[
+										2132,
+										2132
+									],
+									[
+										2509,
+										2509
+									],
+									[
+										2803,
+										2803
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												708,
+												709
+											],
+											"2":
+											[
+												1103,
+												1104
+											],
+											"3":
+											[
+												1251,
+												1252
+											],
+											"4":
+											[
+												1473,
+												1474
+											],
+											"5":
+											[
+												1782,
+												1783
+											],
+											"6":
+											[
+												2229,
+												2230
+											],
+											"7":
+											[
+												2580,
+												2581
+											],
+											"8":
+											[
+												2900,
+												2901
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											],
+											"2":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											],
+											"3":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											],
+											"4":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											],
+											"5":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											],
+											"6":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											],
+											"7":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											],
+											"8":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												593,
+												594
+											],
+											"2":
+											[
+												972,
+												973
+											],
+											"3":
+											[
+												1120,
+												1121
+											],
+											"4":
+											[
+												1353,
+												1354
+											],
+											"5":
+											[
+												1667,
+												1668
+											],
+											"6":
+											[
+												2114,
+												2115
+											],
+											"7":
+											[
+												2491,
+												2492
+											],
+											"8":
+											[
+												2785,
+												2786
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 607.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/config/managedSystemTree.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 950,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										635,
+										635
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												698,
+												699
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												634,
+												635
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -690,358 +2518,811 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/C/Users/kumar_m.XOR-IND/AppData/Roaming/Sublime Text 3/Packages/User/MkAngularSnippet/ng-module.sublime-snippet",
+							"buffer": 5,
+							"file": "/C/Users/Manish/project/repo-json-creation/assets/css/index.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 475,
+								"buffer_size": 6910,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										333,
-										333
+										6851,
+										6851
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content"
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
-									"default_extension": "sublime-snippet",
-									"syntax": "Packages/XML/XML.sublime-syntax"
+									"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 9438.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/D/projects/Repo_cyro_cell/index.html",
+							"buffer": 6,
+							"file": "/C/Users/Manish/project/repo-json-creation/app/components/treeMapping/treeMapCtrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5375,
+								"buffer_size": 11616,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5346,
-										5346
+										1137,
+										1137
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1375,
+												1376
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												359,
+												360
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2425.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/projects/Repo_cyro_cell/assets/css/index.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4029,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3388,
-										3388
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"syntax": "Packages/CSS3/CSS3.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3598.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/projects/Repo_cyro_cell/assets/js/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 828,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										330,
-										330
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
+										"bh_round_content"
 									],
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
+								"translation.y": 110.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Manish/Downloads/asdfd.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 628,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										553,
+										553
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												567,
+												568
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												509,
+												510
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/Manish/Downloads/asdfdd.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 600,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										481,
+										481
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												539,
+												540
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												437,
+												438
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/Manish/Downloads/asdf (1).json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										285,
+										285
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												302,
+												303
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												284,
+												285
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Users/Manish/Downloads/asdfasdf (4).json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 754,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										616,
+										616
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												719,
+												720
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												596,
+												597
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Users/Manish/Downloads/adfasdf.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 658,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										296,
+										296
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												340,
+												341
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												220,
+												221
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
 							"type": "text"
 						}
 					]
@@ -1049,7 +3330,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -1080,18 +3361,18 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 53.0
+				"height": 55.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,563,25,25,681",
+			"position": "0,2,3,-1,-1,-1,-1,590,52,52,708",
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1100,6 +3381,330 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ind",
+						"assets\\css\\index.css"
+					],
+					[
+						"inde",
+						"assets\\css\\index.css"
+					],
+					[
+						"boo",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"in",
+						"assets\\css\\index.css"
+					],
+					[
+						"head",
+						"app\\shared\\header.html"
+					],
+					[
+						"con",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"boots",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"boot",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"config",
+						"app\\components\\treeMapping\\configSchema\\configSchemaCtrl.js"
+					],
+					[
+						"tre",
+						"app\\components\\treeMapping\\treeMapCtrl.js"
+					],
+					[
+						"attr",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"sub",
+						"app\\components\\treeMapping\\partials\\subType\\subType.html"
+					],
+					[
+						"attri",
+						"app\\components\\treeMapping\\partials\\attribute\\attribute.html"
+					],
+					[
+						"mod",
+						"assets\\css\\bootstrap.mod.css"
+					],
+					[
+						"configsc",
+						"app\\components\\treeMapping\\configSchema\\configSchema.html"
+					],
+					[
+						"confi",
+						"app\\components\\treeMapping\\config\\configCtrl.js"
+					],
+					[
+						"configct",
+						"app\\components\\treeMapping\\partials\\config\\configCtrl.js"
+					],
+					[
+						"took",
+						"app\\components\\treeMapping\\partials\\configSchema\\toolkit.html"
+					],
+					[
+						"ha",
+						"app\\shared\\header.html"
+					],
+					[
+						"css",
+						"css.txt"
+					],
+					[
+						"index",
+						"assets\\css\\index.css"
+					],
+					[
+						"mapping",
+						"app\\components\\mapping\\mapping.html"
+					],
+					[
+						"sal",
+						"app\\component\\sales\\sales.html"
+					],
+					[
+						"side",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"sidd",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"importcon",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"crea",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"extr",
+						"partials\\extraactivities.html"
+					],
+					[
+						"sty",
+						"css\\style.css"
+					],
+					[
+						"acad",
+						"partials\\acadamicdetails.html"
+					],
+					[
+						"conta",
+						"partials\\contactdetails.html"
+					],
+					[
+						"question",
+						"js\\controllers\\AddQuestionController.js"
+					],
+					[
+						"find",
+						"js\\controllers\\findstudentcontroller.js"
+					],
+					[
+						"findso",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"impo",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"import",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"create",
+						"partials\\createdrive.html"
+					],
+					[
+						"impor",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"impot",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"drivemo",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"creat",
+						"partials\\createdrive.html"
+					],
+					[
+						"login",
+						"partials\\login.html"
+					],
+					[
+						"createcont",
+						"js\\controllers\\CreateDriveController.js"
+					],
+					[
+						"regist",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"cre",
+						"partials\\createdrive.html"
+					],
+					[
+						"styl",
+						"css\\style.css"
+					],
+					[
+						"regi",
+						"partials\\StudentRegistration.html"
+					],
+					[
+						"person",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"styel",
+						"css\\style.css"
+					],
+					[
+						"add",
+						"partials\\addquestion.html"
+					],
+					[
+						"drivemon",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"inpor",
+						"js\\controllers\\ImportController.js"
+					],
+					[
+						"l",
+						"partials\\login.html"
+					],
+					[
+						"sy",
+						"css\\style.css"
+					],
+					[
+						"drive",
+						"partials\\drivemonitor.html"
+					],
+					[
+						"finds",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"imp",
+						"partials\\ImportQuestions.html"
+					],
+					[
+						"candi",
+						"partials\\candidatelogin.html"
+					],
+					[
+						"rout",
+						"js\\router.js"
+					],
+					[
+						"pe",
+						"partials\\PersonalDetails.html"
+					],
+					[
+						"finssol",
+						"partials\\findstudentssolr.html"
+					],
+					[
+						"fiin",
+						"partials\\finddrives.html"
+					],
+					[
+						"cer",
+						"partials\\createdrive.html"
+					],
+					[
+						"foote",
+						"app\\shared\\footer.html"
+					],
+					[
+						"gene",
+						"app\\component\\setting\\general\\generalSetting.html"
+					],
+					[
+						"brand",
+						"app\\component\\brand\\brand.html"
+					],
+					[
+						"route",
+						"app\\app.routes.js"
+					],
+					[
+						"sid",
+						"app\\shared\\sidebar.html"
+					],
+					[
+						"cate",
+						"app\\component\\category\\category.html"
+					],
+					[
+						"pro",
+						"app\\component\\products\\products.html"
+					],
+					[
+						"enr",
+						"app\\components\\planAndPricing\\enrollmentProcess.html"
+					],
+					[
+						"font",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"fonte",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"abou",
+						"app\\components\\Aboutus\\aboutus.html"
+					],
+					[
+						"cord",
+						"app\\components\\services\\cordBlood.html"
+					],
+					[
+						"fon",
+						"assets\\font-awesome-4.6.3\\css\\font-awesome.css"
+					],
+					[
+						"indexcss",
+						"assets\\css\\index.css"
+					],
+					[
+						"indes",
+						"app\\indexCtrl.js"
+					],
+					[
+						"hea",
+						"app\\shared\\header\\header.html"
+					],
+					[
+						"index.css",
+						"assets\\css\\index.css"
+					],
+					[
+						"index.cs",
+						"assets\\css\\index.css"
+					]
 				],
 				"width": 0.0
 			},
@@ -1129,12 +3734,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 263.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 7,
+			"window_id": 35,
 			"workspace_name": ""
 		}
 	],
